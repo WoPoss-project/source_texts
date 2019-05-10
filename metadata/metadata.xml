@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPerson>
+            <person>
+               <persName>Ammianus Marcellinus</persName>
+               <birth>
+                  <placeName>East</placeName>
+               </birth>
+               <listBibl>
+                  <bibl><title>Rerum gestarum</title>
+                  <date type="century" n="4">IV</date>
+                     <index indexName="genre">
+                        <term>Historical writing</term>
+                     </index>
+                     <extent><measure unit="words" quantity="148861"/></extent></bibl>
+               </listBibl>
+            </person>
+            <person>
+               <persName>Apuleius</persName>
+               <birth>
+                  <placeName>Africa</placeName>
+               </birth>
+               <bibl>
+                  <title>Apologia</title>
+                  <date type="century" n="2">II</date>
+                  <index indexName="genre">
+                     <term>Oratory</term>
+                  </index>
+                  <extent><measure unit="words" quantity="21863"/></extent>
+               </bibl>
+               <bibl>
+                  <title>Metamorphoses</title>
+                  <date type="century" n="2">II</date>
+                  <index indexName="genre">
+                     <term>Novel</term>
+                  </index>
+                  <extent><measure unit="words" quantity="54983"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Aulus Gellius</persName>
+               <birth>
+                  <placeName></placeName>
+               </birth>
+               <bibl>
+                  <title>Attic Nights</title>
+                  <date type="century" n="2">II</date>
+                  <index indexName="genre">
+                     <term>Erudit compilitation</term>
+                  </index>
+                  <extent><measure unit="words" quantity="128395"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Boethius</persName>
+               <birth>
+                  <placeName></placeName>
+               </birth>
+               <bibl>
+                  <title>De consolatione philosophiae</title>
+                  <date type="century" n="6">VI</date>
+                  <index indexName="genre">
+                     <term>Philosophy</term>
+                  </index>
+                  <extent><measure unit="words" quantity="74178"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Caesar</persName>
+               <birth>
+                  <placeName></placeName>
+               </birth>
+               <bibl>
+                  <title>De Bello Gallico</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Historical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="51326"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Celsus</persName>
+               <bibl>
+                  <title>De Medicina</title>
+                  <date type="century" n="1">I</date>
+                  <index indexName="genre">
+                     <term>Technical writing</term>
+                     <term>Medicine</term>
+                  </index>
+                  <extent><measure unit="words" quantity="106135"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Cicero</persName>
+               <bibl>
+                  <title>De Divinatione</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Philosophy</term>
+                  </index>
+                  <extent><measure unit="words" quantity="27913"/></extent>
+               </bibl>
+               <bibl>
+                  <title>De Inventione</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Rethorical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="32878"/></extent>
+               </bibl>
+               <bibl>
+                  <title>Letters to Atticus</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Epistolography</term>
+                  </index>
+                  <extent><measure unit="words" quantity="127740"/></extent>
+               </bibl>
+               <bibl>
+                  <title>Timaeus</title>
+                  <date type="century">-I</date>
+                  <index indexName="genre">
+                     <term>Philosophy</term>
+                     <term>Translation</term>
+                  </index>
+                  <extent><measure unit="words" quantity="4321"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Columella</persName>
+               <bibl>
+                  <title>Res Rustica</title>
+                  <date type="century" n="1">I</date>
+                  <index indexName="genre">
+                     <term>Tecnhical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="100560"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Nepos</persName>
+               <bibl>
+                  <title>Timoleon</title>
+                  <date type="century" n="1">I</date>
+                  <index indexName="genre">
+                     <term>Historical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="847"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Horace</persName>
+               <bibl>
+                  <title>Odes</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                  </index>
+                  <extent><measure unit="words" quantity="40092"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Juvenal</persName>
+               <bibl>
+                  <title>Satires</title>
+                  <date type="century" n="2">II</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                  </index>
+                  <extent><measure unit="words" quantity="26875"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Livy</persName>
+               <bibl>
+                  <title>Ab Urbe Condita</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Historical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="551212"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Lucan</persName>
+               <bibl>
+                  <title>Pharsalia</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                  </index>
+                  <extent><measure unit="words" quantity="51195"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Lucretius</persName>
+               <bibl>
+                  <title>De Rerum Natura</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                     <term>Philosophy</term>
+                  </index>
+                  <extent><measure unit="words" quantity="49126"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Ovid</persName>
+               <bibl>
+                  <title>Epistulae</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                     <term>Epistolography</term>
+                  </index>
+                  <extent><measure unit="words" quantity="26427"/></extent>
+               </bibl>
+               <bibl>
+                  <title>Metamorphoses</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                  </index>
+                  <extent><measure unit="words" quantity="78217"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Petronius</persName>
+               <bibl>
+                  <title>Satyricon</title>
+                  <date type="century" n="1">I</date>
+                  <index indexName="genre">
+                     <term>Novel</term>
+                  </index>
+                  <extent><measure unit="words" quantity="31951"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Plautus</persName>
+               <bibl>
+                  <title>Mostellaria</title>
+                  <date type="century" n="-2">III/II BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                     <term>Comedy</term>
+                  </index>
+                  <extent><measure unit="words" quantity="8935"/></extent>
+               </bibl>
+               <bibl>
+                  <title>Poenelus</title>
+                  <date type="century" n="-2">III/II BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                     <term>Comedy</term>
+                  </index>
+                  <extent><measure unit="words" quantity="10950"/></extent>
+               </bibl>
+               <bibl>
+                  <title>Trinummus</title>
+                  <date type="century" n="-2">III/II BCE</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                     <term>Comedy</term>
+                  </index>
+                  <extent><measure unit="words" quantity="9428"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Pliny the Elder</persName>
+               <bibl>
+                  <title>Naturalis Historia</title>
+                  <date type="century" n="1">I</date>
+                  <index indexName="genre">
+                     <term>Technical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="779149"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Pliny the Younger</persName>
+               <bibl>
+                  <title>Letters</title>
+                  <date type="century" n="1">I</date>
+                  <index indexName="genre">
+                     <term>Epistolography</term>
+                  </index>
+                  <extent><measure unit="words" quantity="67076"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Prudentius</persName>
+               <birth>
+                  <placeName>Spain</placeName>
+               </birth>
+               <bibl>
+                  <title>Peristephanon Liber</title>
+                  <date type="century" n="4">IV</date>
+                  <index indexName="genre">
+                     <term>Poetry</term>
+                     <term>Christian</term>
+                  </index>
+                  <extent><measure unit="words" quantity="18355"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Quintilian</persName>
+               <bibl>
+                  <title>Institutio Oratoria</title>
+                  <date type="century" n="1">I</date>
+                  <index indexName="genre">
+                     <term>Rhetorical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="178715"/></extent>
+               </bibl>
+            </person>
+            <person>
+               <persName>Sallust</persName>
+               <bibl>
+                  <title>Bellum Iugurthinum</title>
+                  <date type="century" n="-1">I BCE</date>
+                  <index indexName="genre">
+                     <term>Historical writing</term>
+                  </index>
+                  <extent><measure unit="words" quantity="21355"/></extent>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+  </text>
+</TEI>
