@@ -253,7 +253,7 @@
                   <extent><measure unit="words" quantity="26875"/></extent>
                </bibl>
             </person>
-            <person>
+<!--            <person>
                <persName>Livy</persName>
                <bibl>
                   <title>Ab Urbe Condita</title>
@@ -263,7 +263,7 @@
                   </index>
                   <extent><measure unit="words" quantity="551212"/></extent>
                </bibl>
-            </person>
+            </person>-->
             <person>
                <persName>Lucan</persName>
                <bibl>
@@ -343,7 +343,7 @@
                </bibl>
                <bibl>
                   <title>Poenelus</title>
-                  <date type="century" n="-2">III/II BCE</date>
+                  <date type="century" n="-3">III/II BCE</date>
                   <index indexName="genre">
                      <term>Poetry</term>
                      <term>Comedy</term>
@@ -360,7 +360,7 @@
                   <extent><measure unit="words" quantity="9428"/></extent>
                </bibl>
             </person>
-            <person>
+<!--            <person>
                <persName>Pliny the Elder</persName>
                <bibl>
                   <title>Naturalis Historia</title>
@@ -370,7 +370,7 @@
                   </index>
                   <extent><measure unit="words" quantity="779149"/></extent>
                </bibl>
-            </person>
+            </person>-->
             <person>
                <persName>Pliny the Younger</persName>
                <bibl>
@@ -475,7 +475,7 @@
                   <index indexName="genre">
                      <term>Poetry</term>
                   </index>
-                  <extent><measure unit="words" quantity=""></measure></extent>
+                  <extent><measure unit="words" quantity="22218"></measure></extent>
                </bibl>
                <bibl>
                   <title>Epistulae</title>
@@ -483,7 +483,7 @@
                   <index indexName="genre">
                      <term>Letter writing</term>
                   </index>
-                  <extent><measure unit="words" quantity=""></measure></extent>
+                  <extent><measure unit="words" quantity="14418"></measure></extent>
                </bibl>
             </person>
             <person>
@@ -518,7 +518,7 @@
                   <index indexName="genre">
                      <term>Historical writing</term>
                   </index>
-                  <extent><measure unit="words" quantity=""></measure></extent>
+                  <extent><measure unit="words" quantity="89607"></measure></extent>
                </bibl>
             </person>
             <person>
@@ -530,7 +530,7 @@
                      <term>Poetry</term>
                      <term>Comedy</term>
                   </index>
-                  <extent><measure unit="words" quantity=""></measure></extent>
+                  <extent><measure unit="words" quantity="9142"></measure></extent>
                </bibl>
                <bibl>
                   <title>Heautontimorumenos</title>
@@ -539,7 +539,7 @@
                      <term>Poetry</term>
                      <term>Comedy</term>
                   </index>
-                  <extent><measure unit="words" quantity=""></measure></extent>
+                  <extent><measure unit="words" quantity="8827"></measure></extent>
                </bibl>
                <bibl>
                   <title>Hecyra</title>
@@ -548,7 +548,7 @@
                      <term>Poetry</term>
                      <term>Comedy</term>
                   </index>
-                  <extent><measure unit="words" quantity=""></measure></extent>
+                  <extent><measure unit="words" quantity="7763"></measure></extent>
                </bibl>
             </person>
             <person>
@@ -559,7 +559,7 @@
                   <index indexName="genre">
                      <term>Philosophy</term>
                   </index>
-                  <extent><measure unit="words" quantity=""></measure></extent>
+                  <extent><measure unit="words" quantity="6383"></measure></extent>
                </bibl>
             </person>
             <person>
@@ -573,7 +573,7 @@
                   <extent><measure unit="words" quantity="6383"></measure></extent>
                </bibl>
             </person>
-            <person>
+            <!--<person>
                <persName>Anonymous</persName>
                <bibl>
                   <title>Vulgata</title>
@@ -583,7 +583,7 @@
                   </index>
                   <extent><measure unit="words" quantity=""></measure></extent>
                </bibl>
-            </person>
+            </person>-->
          </listPerson>
       </body>
   </text>

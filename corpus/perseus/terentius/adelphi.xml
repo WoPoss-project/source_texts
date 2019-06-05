@@ -1,4 +1,4 @@
-<?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"	schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -188,9 +188,7 @@
                      <l n="23">Senes qui primi venient ii partem aperient;</l>
                      <l n="24">In agendo partem ostendent. Facite, aequanimitas</l>
                      <lb ed="actscene" n="25"/>
-                     <l n="25">Poëtae ad scribendum augeat industriam.
-
-</l>
+                     <l n="25">Poëtae ad scribendum augeat industriam.</l>
                   </sp>
                </div>
             </div>
@@ -263,9 +261,7 @@
                   <l n="79">Nescio quid tristem video: credo iam ut solet</l>
                   <lb ed="actscene" n="55"/>
                   <l n="80">Iurgabit. Salvum te advenire, Demea,</l>
-                  <l n="81">Gaudemus.
-
-</l>
+                  <l n="81">Gaudemus.</l>
                </div>
                <div type="textpart" n="2" subtype="scene">
                   <stage>DEMEA. MICIO.</stage>
@@ -275,33 +271,29 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="83">Quid tristis es? 
-   </l>
+                     <l n="83">Quid tristis es?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Rogas me, ubi nobis Aeschinus</l>
-                     <l n="84">Siet, quid tristis ego sim? 
-   </l>
+                     <l part="Y">Rogas me, ubi nobis Aeschinus</l>
+                     <l n="84">Siet, quid tristis ego sim?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Dixine hoc fore?</l>
-                     <l n="85">Quid fecit? 
-   </l>
+                     <l part="Y">Dixine hoc fore?</l>
+                     <l n="85">Quid fecit?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Quid ille fecerit? quem neque pudet</l>
+                     <l part="Y">Quid ille fecerit? quem neque pudet</l>
                      <lb ed="actscene" n="5"/>
                      <l n="86">Quicquam; nec metuit quemquam; neque legem putat</l>
                      <l n="87">Tenere se ullam: nam illa quae antehac facta sunt</l>
-                     <l n="88">Omitto: modo quid designavit! 
-   </l>
+                     <l n="88">Omitto: modo quid designavit!</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quidnam id est?</l>
+                     <l part="Y">Quidnam id est?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
@@ -325,12 +317,11 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="101">Quorsum istuc? 
-   </l>
+                     <l n="101">Quorsum istuc?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quia tu Demea haec male iudicas.</l>
+                     <l part="Y">Quia tu Demea haec male iudicas.</l>
                      <lb ed="actscene" n="21"/>
                      <l n="102">Non est flagitium, mihi crede, adolescentulum</l>
                      <l n="103">Scortari neque potare; non est; neque fores</l>
@@ -348,12 +339,11 @@
                   <sp>
                      <speaker>De.</speaker>
                      <l n="112">Pro Iupiter! tu homo adigis me ad insaniam.</l>
-                     <l n="113">Non est flagitium, facere haec adolescentulum? 
-   </l>
+                     <l n="113">Non est flagitium, facere haec adolescentulum?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ah,</l>
+                     <l part="Y">Ah,</l>
                      <l n="114">Ausculta: ne me obtundas de hac re saepius.</l>
                      <l n="115">Tuum filium dedisti adoptandum mihi:</l>
                      <lb ed="actscene" n="35"/>
@@ -367,15 +357,13 @@
                      <l n="122">Vestem; resarcietur. Est, Dis gratia,</l>
                      <l n="123">Et unde haec flant, et adhuc non molesta sunt.</l>
                      <l n="124">Postremo aut desine, aut cedo quemvis arbitrum:</l>
-                     <l n="125">Te plura in hac re peccare ostendam. 
-   </l>
+                     <l n="125">Te plura in hac re peccare ostendam.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Hei mihi!</l>
+                     <l part="Y">Hei mihi!</l>
                      <lb ed="actscene" n="45"/>
-                     <l n="126">Pater esse disce ab illis qui vere sciunt.
-</l>
+                     <l n="126">Pater esse disce ab illis qui vere sciunt.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
@@ -383,62 +371,55 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="128">Tun consulis quicquam? 
-   </l>
+                     <l n="128">Tun consulis quicquam?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ah, si pergis abiero.</l>
+                     <l part="Y">Ah, si pergis abiero.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="129">Sicine agis? 
-   </l>
+                     <l n="129">Sicine agis?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> An ego toties de eadem re audiam?</l>
+                     <l part="Y">An ego toties de eadem re audiam?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="130">Curae est mihi. 
-   </l>
+                     <l n="130">Curae est mihi.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Et mihi curae est: verum Demea</l>
+                     <l part="Y">Et mihi curae est: verum Demea</l>
                      <lb ed="actscene" n="50"/>
                      <l n="131">Curemus aequam uterque partem: tu alterum,</l>
                      <l n="132">Ego item alterum; nam ambos curare propemodum</l>
-                     <l n="133">Reposcere illum est quem dedisti. 
-   </l>
+                     <l n="133">Reposcere illum est quem dedisti.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Ah, Micio.</l>
+                     <l part="Y">Ah, Micio.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="134">Mihi sic videtur. 
-   </l>
+                     <l n="134">Mihi sic videtur.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Quid istic? tibi si istic placet,</l>
+                     <l part="Y">Quid istic? tibi si istic placet,</l>
                      <l n="135">Profundat, perdat, pereat: nihil ad me attinet.</l>
                      <lb ed="actscene" n="55"/>
-                     <l n="136">Iam si verbum unum posthac—
-   </l>
+                     <l n="136">Iam si verbum unum posthac—</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Rursum, Demea,</l>
-                     <l n="137">Irascere? 
-   </l>
+                     <l part="Y">Rursum, Demea,</l>
+                     <l n="137">Irascere?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> An non credis? repeto quem dedi?</l>
+                     <l part="Y">An non credis? repeto quem dedi?</l>
                      <l n="138">Aegre est: alienus non sum: si obsto, hem, desino.</l>
                      <l n="139">Unum vis curem; curo; et est Dis gratia</l>
                      <l n="140">Quum ita ut volo est. Iste tuus ipse sentiet</l>
@@ -462,8 +443,7 @@
                      <l n="152">Taedebat) dixit velle uxorem ducere.</l>
                      <l n="153">Sperabam iam defervisse adolescentiam:</l>
                      <l n="154">Gaudebam. Ecce autem de integro. Nisi quicquid est</l>
-                     <l n="155">Volo scire, atque hominem convenire si apud forum est.
-</l>
+                     <l n="155">Volo scire, atque hominem convenire si apud forum est.</l>
                   </sp>
                </div>
             </div>
@@ -473,12 +453,11 @@
                   <sp>
                      <speaker>Sa.</speaker>
                      <l n="156">Obsecro, populares, ferte misero atque innocenti auxilium:</l>
-                     <l n="157">Subvenite inopi. 
-   </l>
+                     <l n="157">Subvenite inopi.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Otiose nunc iam ilico hic consiste.</l>
+                     <l part="Y">Otiose nunc iam ilico hic consiste.</l>
                      <l n="158">Quid respectas? nihil pericli est: nunquam dum ego adero hic te tanget.</l>
                   </sp>
                   <sp>
@@ -493,17 +472,15 @@
                   <sp>
                      <speaker>Sa.</speaker>
                      <l n="161">Aeschine audi: ne te ignarum fuisse dicas meorum morum;</l>
-                     <l n="162">Leno ego sum. 
-   </l>
+                     <l n="162">Leno ego sum.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Scio. 
-   </l>
+                     <l part="Y">Scio.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> At ita ut usquam fuit fide quisquam optima.</l>
+                     <l part="Y">At ita ut usquam fuit fide quisquam optima.</l>
                      <l n="163">Tu quod te posterius purges hanc iniuriam mihi nolle</l>
                      <l n="164">Factam esse huius non faciam: crede hoc; ego meum ius persequar;</l>
                      <lb ed="actscene" n="10"/>
@@ -513,26 +490,23 @@
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="168">Abi prae strenue ac fores aperi. 
-   </l>
+                     <l n="168">Abi prae strenue ac fores aperi.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Ceterum hoc nihil facis.</l>
+                     <l part="Y">Ceterum hoc nihil facis.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="169">I intro iam nunc. 
-   </l>
+                     <l n="169">I intro iam nunc.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> At enim non sinam. 
-   </l>
+                     <l part="Y">At enim non sinam.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Accede illuc Parmeno;</l>
+                     <l part="Y">Accede illuc Parmeno;</l>
                      <lb ed="actscene" n="15"/>
                      <l n="170">Nimium istoc abisti: hic propter hunc adsiste. Hem, sic volo.</l>
                      <l n="171">Cave nunc iam oculos a meis oculis quoquam demoveas tuos:</l>
@@ -540,37 +514,33 @@
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="173">Istuc volo ergo ipsum experiri. 
-   </l>
+                     <l n="173">Istuc volo ergo ipsum experiri.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Hem, serva: omitte mulierem.</l>
+                     <l part="Y">Hem, serva: omitte mulierem.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="174">O facinus indignum! 
-   </l>
+                     <l n="174">O facinus indignum!</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Geminabit nisi caves. 
-   </l>
+                     <l part="Y">Geminabit nisi caves.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Hei misero mihi!</l>
+                     <l part="Y">Hei misero mihi!</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
                      <lb ed="actscene" n="20"/>
                      <l n="175">Non innueram: verum in istam partem potius peccato tamen.</l>
-                     <l n="176">I nunc iam. 
-   </l>
+                     <l n="176">I nunc iam.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Quid hoc rei est! regnumne Aeschine hic tu possides?</l>
+                     <l part="Y">Quid hoc rei est! regnumne Aeschine hic tu possides?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
@@ -578,55 +548,47 @@
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="178">Quid tibi rei mecum est? 
-   </l>
+                     <l n="178">Quid tibi rei mecum est?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Nihil. 
-   </l>
+                     <l part="Y">Nihil.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Quid? nostin qui sim? 
-   </l>
+                     <l part="Y">Quid? nostin qui sim?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Non desidero.</l>
+                     <l part="Y">Non desidero.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="179">Tetigin tui quicquam? 
-   </l>
+                     <l n="179">Tetigin tui quicquam?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Si attigisses ferres infortunium.</l>
+                     <l part="Y">Si attigisses ferres infortunium.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
                      <lb ed="actscene" n="25"/>
                      <l n="180">Qui tibi magis licet meam habere pro qua ego argentum dedi?</l>
-                     <l n="181">Responde. 
-   </l>
+                     <l n="181">Responde.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Ante aedes non fecisse erit melius hic convicium;</l>
+                     <l part="Y">Ante aedes non fecisse erit melius hic convicium;</l>
                      <l n="182">Nam si molestus pergis esse iam intro abripiere atque ibi</l>
-                     <l n="183">Usque ad necem operiere loris. 
-   </l>
+                     <l n="183">Usque ad necem operiere loris.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Loris liber? 
-   </l>
+                     <l part="Y">Loris liber?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Sic erit.
-</l>
+                     <l part="Y">Sic erit.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
@@ -639,30 +601,27 @@
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="186">Egon debacchatus sum autem, an tu in me? 
-   </l>
+                     <l n="186">Egon debacchatus sum autem, an tu in me?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Mitte ista, atque ad rem redi.</l>
+                     <l part="Y">Mitte ista, atque ad rem redi.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="187">Quam rem? quo redeam? 
-   </l>
+                     <l n="187">Quam rem? quo redeam?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Iamne me vis dicere id quod ad te attinet?</l>
+                     <l part="Y">Iamne me vis dicere id quod ad te attinet?</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="188">Cupio; aequi modo aliquid. 
-   </l>
+                     <l n="188">Cupio; aequi modo aliquid.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Vah! leno iniqua me non vult loqui.</l>
+                     <l part="Y">Vah! leno iniqua me non vult loqui.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
@@ -672,47 +631,41 @@
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="191">Nam hercle etiam hoc restat. 
-   </l>
+                     <l n="191">Nam hercle etiam hoc restat.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Illuc quaeso redi quo coepisti, Aeschine.</l>
+                     <l part="Y">Illuc quaeso redi quo coepisti, Aeschine.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
                      <l n="192">Minis viginti tu illam emisti; quae res tibi vertat male.</l>
-                     <l n="193">Argenti tantum dabitur. 
-   </l>
+                     <l n="193">Argenti tantum dabitur.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Quid si ego tibi illam nolo vendere,</l>
-                     <l n="194">Coges me? 
-   </l>
+                     <l part="Y">Quid si ego tibi illam nolo vendere,</l>
+                     <l n="194">Coges me?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Minime. 
-   </l>
+                     <l part="Y">Minime.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Namque id metui. 
-   </l>
+                     <l part="Y">Namque id metui.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Neque vendendam censeo,</l>
+                     <l part="Y">Neque vendendam censeo,</l>
                      <lb ed="actscene" n="40"/>
                      <l n="195">Quae libera est; nam ego liberali illam assero causa manu.</l>
                      <l n="196">Nunc vide utrum vis; argentum accipere, an causam meditari tari tuam?</l>
-                     <l n="197">Delibera hoc dum ego redeo leno. 
-   </l>
+                     <l n="197">Delibera hoc dum ego redeo leno.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Pro supreme Iupiter!</l>
+                     <l part="Y">Pro supreme Iupiter!</l>
                      <l n="198">Minime miror qui insanire occipiunt ex iniuria.</l>
                      <l n="199">Domo me eripuit; verberavit; me invito abduxit meam:</l>
                      <lb ed="actscene" n="45"/>
@@ -726,9 +679,7 @@
                      <l n="206">Id quoque possum ferre si modo reddat; quanquam iniurium est.</l>
                      <l n="207">Verum cogito id quod res est: quando eum quaestum occeperis,</l>
                      <l n="208">Accipienda et mussitanda iniuria adolescentium est.</l>
-                     <l n="209">Sed nemo dabit: frustra has egomet mecum rationes puto.
-
-</l>
+                     <l n="209">Sed nemo dabit: frustra has egomet mecum rationes puto.</l>
                   </sp>
                </div>
                <div type="textpart" n="2" subtype="scene">
@@ -737,56 +688,50 @@
                      <speaker>Sy.</speaker>
                      <l n="210">Tace, egomet conveniam iam ipsum: cupide accipiat faxo; atque etiam</l>
                      <l n="211">Bene dicat secum esse actum. Quid istuc, Sannio, est quod te audio</l>
-                     <l n="212">Nescio quid concertasse cum hero? 
-   </l>
+                     <l n="212">Nescio quid concertasse cum hero?</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Nunquam vidi iniquius</l>
+                     <l part="Y">Nunquam vidi iniquius</l>
                      <l n="213">Certationem comparatam quam haec hodie inter nos fuit:</l>
                      <lb ed="actscene" n="5"/>
                      <l n="214">Ego vapulando, ille verberando, usque ambo defessi sumus.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="215">Tua culpa. 
-   </l>
+                     <l n="215">Tua culpa.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Quid agerem? 
-   </l>
+                     <l part="Y">Quid agerem?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Adolescenti morem gestum oportuit.</l>
+                     <l part="Y">Adolescenti morem gestum oportuit.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="216">Qui potui melius qui hodie usque os praebui? 
-   </l>
+                     <l n="216">Qui potui melius qui hodie usque os praebui?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Age, scis quid loquar?</l>
-                     <l n="217">Pecuniam in loco negligere maximum interdum est lucrum. 
-   </l>
+                     <l part="Y">Age, scis quid loquar?</l>
+                     <l n="217">Pecuniam in loco negligere maximum interdum est lucrum.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Hui!</l>
+                     <l part="Y">Hui!</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <l n="218">Metuisti; si nunc de tuo iure concessisses paululum, atque</l>
                      <lb ed="actscene" n="10"/>
                      <l n="219">Adolescenti esses morigeratus, hominum homo stultissime,</l>
-                     <l n="220">Ne non tibi istuc foeneraret? 
-   </l>
+                     <l n="220">Ne non tibi istuc foeneraret?</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Ego spem pretio non emo.</l>
+                     <l part="Y">Ego spem pretio non emo.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -801,12 +746,11 @@
                      <speaker>Sy.</speaker>
                      <lb ed="actscene" n="15"/>
                      <l n="224">Age; novi tuum animum; quasi iam usquam tibi sint viginti minae,</l>
-                     <l n="225">Dum huic obsequare. Praeterea autem te aiunt proficisci Cyprum. 
-   </l>
+                     <l n="225">Dum huic obsequare. Praeterea autem te aiunt proficisci Cyprum.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Hem!</l>
+                     <l part="Y">Hem!</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -815,19 +759,17 @@
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="228">Nusquam pedem. Perii hercle; hac illi spe hoc inceperunt. 
-   </l>
+                     <l n="228">Nusquam pedem. Perii hercle; hac illi spe hoc inceperunt.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Timet:</l>
+                     <l part="Y">Timet:</l>
                      <lb ed="actscene" n="20"/>
-                     <l n="229">Inieci scrupulum homini. 
-   </l>
+                     <l n="229">Inieci scrupulum homini.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> O scelera! illud vide</l>
+                     <l part="Y">O scelera! illud vide</l>
                      <l n="230">Ut in ipso articulo oppressit. Emtae mulieres</l>
                      <l n="231">Complures; et item hine alia quae porto Cyprum.</l>
                      <l n="232">Nisi eo ad mercatum venio, damnum maximum est.</l>
@@ -839,8 +781,7 @@
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="237">Iamne enumerasti id quod ad te rediturum putes?
-</l>
+                     <l n="237">Iamne enumerasti id quod ad te rediturum putes?</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
@@ -853,52 +794,45 @@
                      <l n="240">Labascit. Unum hoc habeo: vide si satis placet:</l>
                      <l n="241">Potius quam venias in periculum, Sannio,</l>
                      <l n="242">Servesne an perdas totum, dividuum face:</l>
-                     <l n="243">Minas decem conradet alicunde. 
-   </l>
+                     <l n="243">Minas decem conradet alicunde.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Hei mihi,</l>
+                     <l part="Y">Hei mihi,</l>
                      <lb ed="actscene" n="35"/>
                      <l n="244">Etiam de sorte nunc venio in dubium miser?</l>
                      <l n="245">Pudet nihil: omnes dentes labefecit mihi:</l>
                      <l n="246">Praeterea colaphis tuber est totum caput.</l>
-                     <l n="247">Etiam insuper defrudat? nusquam abeo. 
-   </l>
+                     <l n="247">Etiam insuper defrudat? nusquam abeo.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Ut lubet.</l>
-                     <l n="248">Numquid vis quin abeam? 
-   </l>
+                     <l part="Y">Ut lubet.</l>
+                     <l n="248">Numquid vis quin abeam?</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Immo hercle hoc quaeso, Syre;</l>
+                     <l part="Y">Immo hercle hoc quaeso, Syre;</l>
                      <lb ed="actscene" n="40"/>
                      <l n="249">Ut ut haec sunt acta, potius quam lites sequar,</l>
                      <l n="250">Meum mihi reddatur; saltem quanti emta est, Syre.</l>
                      <l n="251">Scio te non usum antehac amicitia mea:</l>
-                     <l n="252">Memorem me dices esse et gratum. 
-   </l>
+                     <l n="252">Memorem me dices esse et gratum.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Sedulo</l>
+                     <l part="Y">Sedulo</l>
                      <l n="253">Faciam: sed Ctesiphonem video: laetus est</l>
                      <lb ed="actscene" n="45"/>
-                     <l n="254">De amica. 
-   </l>
+                     <l n="254">De amica.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Quid quod te oro? 
-   </l>
+                     <l part="Y">Quid quod te oro?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Paulisper mane.
-</l>
+                     <l part="Y">Paulisper mane.</l>
                   </sp>
                </div>
                <div type="textpart" n="3" subtype="scene">
@@ -915,59 +849,51 @@
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="261">O Ctesipho. 
-   </l>
+                     <l n="261">O Ctesipho.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> O Syre, Aeschinus ubi est? 
-   </l>
+                     <l part="Y">O Syre, Aeschinus ubi est?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Ellum, te exspectat domi. 
-   </l>
+                     <l part="Y">Ellum, te exspectat domi.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Hem.</l>
+                     <l part="Y">Hem.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="262">Quid est? 
-   </l>
+                     <l n="262">Quid est?</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Quid sit? illius opera, Syre, nunc vivo: festivum caput,</l>
+                     <l part="Y">Quid sit? illius opera, Syre, nunc vivo: festivum caput,</l>
                      <l n="263">Qui omnia sibi post putavit esse prae meo commodo;</l>
                      <l n="264">Maledicta, famam, meum amorem, et peccatum in se transtulit:</l>
                      <lb ed="actscene" n="11"/>
-                     <l n="265">Nihil pote supra. Quidnam foris crepuit? 
-   </l>
+                     <l n="265">Nihil pote supra. Quidnam foris crepuit?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Mane, mane: ipse exit foras.
-</l>
+                     <l part="Y">Mane, mane: ipse exit foras.</l>
                   </sp>
                </div>
                <div type="textpart" n="4" subtype="scene">
                   <stage>AESCHINUS. SANNIO. CTESIPHO. SYRUS.</stage>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="266">Ubi ille est sacrilegus? 
-   </l>
+                     <l n="266">Ubi ille est sacrilegus?</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Men quaerit? numquidnam effert? Occidi:</l>
-                     <l n="267">Nihil video. 
-   </l>
+                     <l part="Y">Men quaerit? numquidnam effert? Occidi:</l>
+                     <l n="267">Nihil video.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Ehem, opportune; te ipsum quaero. Quid fit, Ctesipho?</l>
+                     <l part="Y">Ehem, opportune; te ipsum quaero. Quid fit, Ctesipho?</l>
                      <l n="268">In tuto est omnis res: omitte vero tristitiam tuam.</l>
                   </sp>
                   <sp>
@@ -986,27 +912,24 @@
                   <sp>
                      <speaker>Ct.</speaker>
                      <lb ed="actscene" n="10"/>
-                     <l n="275">Pudebat. 
-   </l>
+                     <l n="275">Pudebat.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Ah, stultitia est istaec, non pudor. Tam ob parvulam</l>
+                     <l part="Y">Ah, stultitia est istaec, non pudor. Tam ob parvulam</l>
                      <l n="276">Rem paene ex patria!—Turpe dictu. Deos quaeso ut istaec prohibeant.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l n="277">Peccavi. 
-   </l>
+                     <l n="277">Peccavi.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Quid ait tandem nobis Sannio? 
-   </l>
+                     <l part="Y">Quid ait tandem nobis Sannio?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Iam mitis est.</l>
+                     <l part="Y">Iam mitis est.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
@@ -1014,52 +937,45 @@
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="279">Syre, insta. 
-   </l>
+                     <l n="279">Syre, insta.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Eamus; namque hic properat in Cyprum. 
-   </l>
+                     <l part="Y">Eamus; namque hic properat in Cyprum.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Ne tam quidem;</l>
+                     <l part="Y">Ne tam quidem;</l>
                      <lb ed="actscene" n="15"/>
-                     <l n="280">Quamvis etiam maneo otiosus hic. 
-   </l>
+                     <l n="280">Quamvis etiam maneo otiosus hic.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Reddetur; ne time.</l>
+                     <l part="Y">Reddetur; ne time.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l n="281">At ut omne reddat. 
-   </l>
+                     <l n="281">At ut omne reddat.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Omne reddet: tace modo, ac sequere hac. 
-   </l>
+                     <l part="Y">Omne reddet: tace modo, ac sequere hac.</l>
                   </sp>
                   <sp>
                      <speaker>Sa.</speaker>
-                     <l part="Y"> Sequor.</l>
+                     <l part="Y">Sequor.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l n="282">Heus, heus, Syre. 
-   </l>
+                     <l n="282">Heus, heus, Syre.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Hem, quid est? 
-   </l>
+                     <l part="Y">Hem, quid est?</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Obsecro hercle, hominem istum impurissimum</l>
+                     <l part="Y">Obsecro hercle, hominem istum impurissimum</l>
                      <l n="283">Quamprimum absolvitote; ne, si magis irritatus siet,</l>
                      <l n="284">Aliqua ad patrem hoc permanet, atque ego tum perpetuo perierim.</l>
                   </sp>
@@ -1072,8 +988,7 @@
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l n="288">Ita quaeso: quando hoc bene successit, hilarem hunc sumamus diem.
-</l>
+                     <l n="288">Ita quaeso: quando hoc bene successit, hilarem hunc sumamus diem.</l>
                   </sp>
                </div>
             </div>
@@ -1082,18 +997,16 @@
                   <stage>SOSTRATA. CANTHARA.</stage>
                   <sp>
                      <speaker>So.</speaker>
-                     <l n="289">Obsecro, mea nutrix, quid nunc fiet? 
-   </l>
+                     <l n="289">Obsecro, mea nutrix, quid nunc fiet?</l>
                   </sp>
                   <sp>
                      <speaker>Ca.</speaker>
-                     <l part="Y"> Quid fiat rogas?</l>
-                     <l n="290">Recte edepol spero. 
-   </l>
+                     <l part="Y">Quid fiat rogas?</l>
+                     <l n="290">Recte edepol spero.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Modo dolores, mea tu, occipiunt primulum.</l>
+                     <l part="Y">Modo dolores, mea tu, occipiunt primulum.</l>
                   </sp>
                   <sp>
                      <speaker>Ca.</speaker>
@@ -1108,12 +1021,11 @@
                   <sp>
                      <speaker>Ca.</speaker>
                      <l n="294">Pol is quidem iam hic aderit; nam nunquam unum intermittit diem</l>
-                     <l n="295">Quin semper veniat. 
-   </l>
+                     <l n="295">Quin semper veniat.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Solus mearum miseriarum est remedium.</l>
+                     <l part="Y">Solus mearum miseriarum est remedium.</l>
                   </sp>
                   <sp>
                      <speaker>Ca.</speaker>
@@ -1124,8 +1036,7 @@
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l n="299">Ita pol est ut dicis: salvus nobis Deos quaeso ut siet.
-</l>
+                     <l n="299">Ita pol est ut dicis: salvus nobis Deos quaeso ut siet.</l>
                   </sp>
                </div>
                <div type="textpart" n="2" subtype="scene">
@@ -1149,23 +1060,20 @@
                      <l n="307">Quem neque fides neque iusiurandum neque illum misericordia</l>
                      <l n="308">Repressit neque reflexit, neque quod partus instabat prope,</l>
                      <lb ed="actscene" n="10"/>
-                     <l n="309">Cui miserae indigne per vim vitium obtulerat. 
-   </l>
+                     <l n="309">Cui miserae indigne per vim vitium obtulerat.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Non intelligo</l>
-                     <l n="310">Satis quae loquatur. 
-   </l>
+                     <l part="Y">Non intelligo</l>
+                     <l n="310">Satis quae loquatur.</l>
                   </sp>
                   <sp>
                      <speaker>Ca.</speaker>
-                     <l part="Y"> Propius obsecro accedamus, Sostrata. 
-   </l>
+                     <l part="Y">Propius obsecro accedamus, Sostrata.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Ah,</l>
+                     <l part="Y">Ah,</l>
                      <l n="311">Me miserum! vix sum compos animi; ita ardeo iracundia.</l>
                      <l n="312">Nihil est quod malim quam illam totam familiam mihi dari obviam,</l>
                      <l n="313">Ut ego iram hanc in eos evomam omnem dum aegritudo haec est recens:</l>
@@ -1178,75 +1086,64 @@
                      <lb ed="actscene" n="20"/>
                      <l n="319">Adolescenti ipsi eriperem oculos; posthaec praecipitem darem;</l>
                      <l n="320">Caeteros ruerem, agerem, raperem, tunderem, et prosternerem.</l>
-                     <l n="321">Sed cesso heram hoc malo impertiri propere? 
-   </l>
+                     <l n="321">Sed cesso heram hoc malo impertiri propere?</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Revocemus. Geta.
-</l>
+                     <l part="Y">Revocemus. Geta.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l n="322">Hem, quisquis es, sine me. 
-   </l>
+                     <l n="322">Hem, quisquis es, sine me.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Ego sum Sostrata. 
-   </l>
+                     <l part="Y">Ego sum Sostrata.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Ubi ea est? te ipsam quaerito,</l>
+                     <l part="Y">Ubi ea est? te ipsam quaerito,</l>
                      <l n="323">Te expecto: oppido opportune te obtulisti mihi obviam,</l>
                      <lb ed="actscene" n="25"/>
-                     <l n="324">Hera. 
-   </l>
+                     <l n="324">Hera.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Quid est? quid trepidas? 
-   </l>
+                     <l part="Y">Quid est? quid trepidas?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Hei mihi! 
-   </l>
+                     <l part="Y">Hei mihi!</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Quid festinas, mi Geta?</l>
-                     <l n="325">Animam recipe. 
-   </l>
+                     <l part="Y">Quid festinas, mi Geta?</l>
+                     <l n="325">Animam recipe.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Prorsus—</l>
+                     <l part="Y">Prorsus—</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Quid istuc prorsus ergo est. 
-   </l>
+                     <l part="Y">Quid istuc prorsus ergo est.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Periimus:</l>
-                     <l n="326">Actum est. 
-   </l>
+                     <l part="Y">Periimus:</l>
+                     <l n="326">Actum est.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Eloquere ergo, obsecro te, quid sit. 
-   </l>
+                     <l part="Y">Eloquere ergo, obsecro te, quid sit.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Iam—</l>
+                     <l part="Y">Iam—</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Quid iam, Geta?</l>
+                     <l part="Y">Quid iam, Geta?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
@@ -1254,28 +1151,24 @@
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Quid is ergo? 
-   </l>
+                     <l part="Y">Quid is ergo?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> alienus est ab nostra familia. 
-   </l>
+                     <l part="Y">alienus est ab nostra familia.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Hem,</l>
-                     <l n="328">Perii: quare? 
-   </l>
+                     <l part="Y">Hem,</l>
+                     <l n="328">Perii: quare?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Amare occepit aliam. 
-   </l>
+                     <l part="Y">Amare occepit aliam.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Vae miserae mihi!</l>
+                     <l part="Y">Vae miserae mihi!</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
@@ -1284,17 +1177,15 @@
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l n="330">Satin hoc certum est? 
-   </l>
+                     <l n="330">Satin hoc certum est?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Certum: hisce oculis egomet vidi, Sostrata. 
-   </l>
+                     <l part="Y">Certum: hisce oculis egomet vidi, Sostrata.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Ah,</l>
+                     <l part="Y">Ah,</l>
                      <l n="331">Me miseram! quid credas iam? aut cui credas? Nostrumne Aeschinum;</l>
                      <l n="332">Nostram vitam omnium, in quo nostrae spes omnesque opes sitae</l>
                      <l n="333">Erant; qui sine hac iurabat se unum nunquam victurum diem;</l>
@@ -1305,46 +1196,40 @@
                   <sp>
                      <speaker>Ge.</speaker>
                      <l n="336">Hera, lacrimas mitte, ac potius quod ad hanc rem opus est porro consule;</l>
-                     <l n="337">Patiamurne, an narremus cuipiam? 
-   </l>
+                     <l n="337">Patiamurne, an narremus cuipiam?</l>
                   </sp>
                   <sp>
                      <speaker>Ca.</speaker>
-                     <l part="Y"> Au, mi homo, sanusne es?</l>
-                     <l n="338">An hoc proferendum tibi videtur usquam esse? 
-   </l>
+                     <l part="Y">Au, mi homo, sanusne es?</l>
+                     <l n="338">An hoc proferendum tibi videtur usquam esse?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Mihi quidem non placet.</l>
+                     <l part="Y">Mihi quidem non placet.</l>
                      <l n="339">Iam primum illum alieno animo a nobis esse res ipsa indicat.</l>
                      <lb ed="actscene" n="41"/>
                      <l n="340">Nunc si hoc palam proferimus ille infitias ibit, sat scio.</l>
                      <l n="341">Tua fama et gnatae vita in dubium veniet. Tum si maxime</l>
                      <l n="342">Fateatur, quum amet aliam, non est utile hanc illi dari:</l>
-                     <l n="343">Quapropter quoquo pacto tacito est opus. 
-   </l>
+                     <l n="343">Quapropter quoquo pacto tacito est opus.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Ah, minime gentium:</l>
+                     <l part="Y">Ah, minime gentium:</l>
                      <lb ed="actscene" n="45"/>
-                     <l n="344">Non faciam. 
-   </l>
+                     <l n="344">Non faciam.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Quid ages? 
-   </l>
+                     <l part="Y">Quid ages?</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Proferam. 
-   </l>
+                     <l part="Y">Proferam.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Hem, mea Sostrata, vide quam rem agas.</l>
+                     <l part="Y">Hem, mea Sostrata, vide quam rem agas.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
@@ -1355,31 +1240,27 @@
                      <lb ed="actscene" n="50"/>
                      <l n="349">Postremo, quando ego conscia mihi sum a me culpam esse hanc procul,</l>
                      <l n="350">Neque pretium neque rem ullam intercessisse illa aut me indignam, Geta,</l>
-                     <l n="351">Experiar. 
-   </l>
+                     <l n="351">Experiar.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Quid ista? accedo, ut melius dicas. 
-   </l>
+                     <l part="Y">Quid ista? accedo, ut melius dicas.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Tu, quantum potes,</l>
+                     <l part="Y">Tu, quantum potes,</l>
                      <l n="352">Abi, atque Hegioni cognato huius rem omnem narrato ordine;</l>
                      <l n="353">Nam is nostro Simulo fuit summus, et nos coluit maxime.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
                      <lb ed="actscene" n="55"/>
-                     <l n="354">Nam hercle alius nemo respicit nos. 
-   </l>
+                     <l n="354">Nam hercle alius nemo respicit nos.</l>
                   </sp>
                   <sp>
                      <speaker>So.</speaker>
-                     <l part="Y"> Propera tu, mea Canthara,</l>
-                     <l n="355">Curre: obstetricem arcesse, ut cum opus sit ne in mora nobis siet.
-</l>
+                     <l part="Y">Propera tu, mea Canthara,</l>
+                     <l n="355">Curre: obstetricem arcesse, ut cum opus sit ne in mora nobis siet.</l>
                   </sp>
                </div>
                <div type="textpart" n="3" subtype="scene">
@@ -1397,43 +1278,38 @@
                      <l n="363">Atque hercle hic de grege illo est: si me senserit</l>
                      <l n="364">Eum quaeritare, nunquam dicet carnifex.</l>
                      <lb ed="actscene" n="10"/>
-                     <l n="365">Non ostendam me id velle. 
-   </l>
+                     <l n="365">Non ostendam me id velle.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Omnem rem modo seni</l>
+                     <l part="Y">Omnem rem modo seni</l>
                      <l n="366">Quo pacto se haberet enarramus ordine:</l>
-                     <l n="367">Nihil vidi quicquam laetius. 
-   </l>
+                     <l n="367">Nihil vidi quicquam laetius.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Pro Iupiter,</l>
-                     <l n="368">Hominis stultitiam! 
-   </l>
+                     <l part="Y">Pro Iupiter,</l>
+                     <l n="368">Hominis stultitiam!</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Collaudavit filium:</l>
+                     <l part="Y">Collaudavit filium:</l>
                      <l n="369">Mihi qui id dedissem consilium egit gratias.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="15"/>
-                     <l n="370">Disrumpor. 
-   </l>
+                     <l n="370">Disrumpor.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Argentum annumeravit ilico:</l>
+                     <l part="Y">Argentum annumeravit ilico:</l>
                      <l n="371">Dedit praeterea in sumtum dimidium minae:</l>
-                     <l n="372">Id distributum sane est ex sententia. 
-   </l>
+                     <l n="372">Id distributum sane est ex sententia.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Hem!</l>
+                     <l part="Y">Hem!</l>
                      <l n="373">Huic mandes, si quid recte curatum velis.</l>
                   </sp>
                   <sp>
@@ -1444,178 +1320,155 @@
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="20"/>
                      <l n="375">Quid agatur? Vestram nequeo mirari satis</l>
-                     <l n="376">Rationem. 
-   </l>
+                     <l n="376">Rationem.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Est hercle inepta, ne dicam dolo,</l>
+                     <l part="Y">Est hercle inepta, ne dicam dolo,</l>
                      <l n="377">Atque absurda. Pisces ceteros purga, Dromo:</l>
                      <l n="378">Congrum istum maximum in aqua sinito ludere</l>
                      <l n="379">Paulisper: ubi ego venero, exossabitur;</l>
                      <lb ed="actscene" n="25"/>
-                     <l n="380">Prius nolo. 
-   </l>
+                     <l n="380">Prius nolo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Haecine flagitia! 
-   </l>
+                     <l part="Y">Haecine flagitia!</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Mihi quidem non placent;</l>
+                     <l part="Y">Mihi quidem non placent;</l>
                      <l n="381">Et clamo saepe. Salsamenta haec, Stephanio,</l>
-                     <l n="382">Fac macerentur pulchre. 
-   </l>
+                     <l n="382">Fac macerentur pulchre.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Di vestram fidem,</l>
+                     <l part="Y">Di vestram fidem,</l>
                      <l n="383">Utrum studione id sibi habet, an laudi putat</l>
                      <l n="384">Fore si perdiderit gnatum? Vae misero mihi!</l>
                      <lb ed="actscene" n="30"/>
                      <l n="385">Videre videor iam diem illum quum hinc egens</l>
-                     <l n="386">Profugiet aliquo militatum. 
-   </l>
+                     <l n="386">Profugiet aliquo militatum.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> O Demea,</l>
+                     <l part="Y">O Demea,</l>
                      <l n="387">Istuc est sapere, non quod ante pedes modo est</l>
                      <l n="388">Videre, sed etiam illa quae futura sunt</l>
-                     <l n="389">Prospicere. 
-   </l>
+                     <l n="389">Prospicere.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Quid? istaec iam penes vos psaltria est?</l>
+                     <l part="Y">Quid? istaec iam penes vos psaltria est?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <lb ed="actscene" n="35"/>
-                     <l n="390">Ellam intus. 
-   </l>
+                     <l n="390">Ellam intus.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Eho an domi est habiturus? 
-   </l>
+                     <l part="Y">Eho an domi est habiturus?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Credo, ut est</l>
-                     <l n="391">Dementia. 
-   </l>
+                     <l part="Y">Credo, ut est</l>
+                     <l n="391">Dementia.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Haecine fieri! 
-   </l>
+                     <l part="Y">Haecine fieri!</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Inepta lenitas</l>
-                     <l n="392">Patris et facilitas prava. 
-   </l>
+                     <l part="Y">Inepta lenitas</l>
+                     <l n="392">Patris et facilitas prava.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Fratris me quidem</l>
-                     <l n="393">Pudet pigetque. 
-   </l>
+                     <l part="Y">Fratris me quidem</l>
+                     <l n="393">Pudet pigetque.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Nimium inter vos, Demea, ac</l>
+                     <l part="Y">Nimium inter vos, Demea, ac</l>
                      <l n="394">Non quia ades praesens dico hoc, pernimium interest.</l>
                      <lb ed="actscene" n="40"/>
                      <l n="395">Tu quantus quantus es nihil nisi sapientia es:</l>
                      <l n="396">Ille somnium. Sineres vero tu illum tuum</l>
-                     <l n="397">Facere haec? 
-   </l>
+                     <l n="397">Facere haec?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Sinerem illum? an non sex totis mensibus</l>
+                     <l part="Y">Sinerem illum? an non sex totis mensibus</l>
                      <l n="398">Prius olfecissem quam ille quicquam coeperit?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="399">Vigilantiam tuam tu mihi narras? 
-   </l>
+                     <l n="399">Vigilantiam tuam tu mihi narras?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Sic siet</l>
+                     <l part="Y">Sic siet</l>
                      <lb ed="actscene" n="45"/>
-                     <l n="400">Modo ut nunc est quaeso. 
-   </l>
+                     <l n="400">Modo ut nunc est quaeso.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Ut quisque suum vult esse, ita est.</l>
+                     <l part="Y">Ut quisque suum vult esse, ita est.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="401">Quid eum? vidistine hodie? 
-   </l>
+                     <l n="401">Quid eum? vidistine hodie?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Tuumne filium?</l>
+                     <l part="Y">Tuumne filium?</l>
                      <l n="402">Abigam hunc rus. Iamdudum aliquid ruri agere arbitror.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="403">Satin scis ibi esse? 
-   </l>
+                     <l n="403">Satin scis ibi esse?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Oh, qui egomet produxi. 
-   </l>
+                     <l part="Y">Oh, qui egomet produxi.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Optime est.</l>
-                     <l n="404">Metui ne haereret hic. 
-   </l>
+                     <l part="Y">Optime est.</l>
+                     <l n="404">Metui ne haereret hic.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Atque iratum admodum.</l>
+                     <l part="Y">Atque iratum admodum.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="50"/>
-                     <l n="405">Quid autem? 
-   </l>
+                     <l n="405">Quid autem?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Adortus iurgio fratrem apud forum</l>
-                     <l n="406">De psaltria istac. 
-   </l>
+                     <l part="Y">Adortus iurgio fratrem apud forum</l>
+                     <l n="406">De psaltria istac.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Ain vero? 
-   </l>
+                     <l part="Y">Ain vero?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Vah, nihil reticuit.</l>
+                     <l part="Y">Vah, nihil reticuit.</l>
                      <l n="407">Nam ut numerabatur forte argentum intervenit</l>
                      <l n="408">Homo de improviso: coepit clamare, " O Aeschine!</l>
                      <l n="409">Haecine flagitia facere te! haec te admittere</l>
                      <lb ed="actscene" n="55"/>
-                     <l n="410">Indigna genere nostro!" 
-   </l>
+                     <l n="410">Indigna genere nostro!"</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Oh! lacrimo gaudio.</l>
+                     <l part="Y">Oh! lacrimo gaudio.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -1623,75 +1476,66 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="412">Salvus sit, spero: est similis maiorum suum. 
-   </l>
+                     <l n="412">Salvus sit, spero: est similis maiorum suum.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Hui.</l>
+                     <l part="Y">Hui.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="413">Syre, praeceptorum plenus istorum ille. 
-   </l>
+                     <l n="413">Syre, praeceptorum plenus istorum ille.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Phy.</l>
-                     <l n="414">Domi habuit unde disceret. 
-   </l>
+                     <l part="Y">Phy.</l>
+                     <l n="414">Domi habuit unde disceret.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Fit sedulo.</l>
+                     <l part="Y">Fit sedulo.</l>
                      <lb ed="actscene" n="60"/>
                      <l n="415">Nihil praetermitto: consuefacio: denique</l>
                      <l n="416">Inspicere tanquam in speculum in vitas omnium</l>
                      <l n="417">Iubeo, atque ex aliis sumere exemplum sibi.</l>
-                     <l n="418">"Hoc facito." 
-   </l>
+                     <l n="418">"Hoc facito."</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Recte sane. 
-   </l>
+                     <l part="Y">Recte sane.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> "Hoc fugito." 
-   </l>
+                     <l part="Y">"Hoc fugito."</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Callide.</l>
+                     <l part="Y">Callide.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="419">"Hoc laudi est." 
-   </l>
+                     <l n="419">"Hoc laudi est."</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Istaec res est. 
-   </l>
+                     <l part="Y">Istaec res est.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> "Hoc vitio datur."</l>
+                     <l part="Y">"Hoc vitio datur."</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <lb ed="actscene" n="65"/>
-                     <l n="420">Probissime. 
-   </l>
+                     <l n="420">Probissime.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Porro autem—</l>
+                     <l part="Y">Porro autem—</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Non hercle otium est</l>
+                     <l part="Y">Non hercle otium est</l>
                      <l n="421">Nunc mihi auscultandi. Pisces ex sententia</l>
                      <l n="422">Nactus sum: hi mihi ne corrumpantur cautio est:</l>
                      <l n="423">Nam id nobis tam flagitium est quam illa, Demea,</l>
@@ -1706,26 +1550,23 @@
                      <l n="430">Inspicere iubeo, et moneo quid facto usus siet.</l>
                      <l n="431">Inepta haec esse nos quae facimus sentio:</l>
                      <l n="432">Verum quid facias? ut homo est, ita morem geras.</l>
-                     <l n="433">Numquid vis? 
-   </l>
+                     <l n="433">Numquid vis?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Mentem vobis meliorem dari.</l>
+                     <l part="Y">Mentem vobis meliorem dari.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="434">Tu rus hinc abis? 
-   </l>
+                     <l n="434">Tu rus hinc abis?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Recta. 
-   </l>
+                     <l part="Y">Recta.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Nam quid tu hic agas,</l>
+                     <l part="Y">Nam quid tu hic agas,</l>
                      <lb ed="actscene" n="80"/>
                      <l n="435">Ubi si quid bene praecipias nemo obtemperet?</l>
                   </sp>
@@ -1744,8 +1585,7 @@
                      <lb ed="actscene" n="90"/>
                      <l n="445">Quam gaudeo ubi etiam huius generis reliquias</l>
                      <l n="446">Restare video! Ah, vivere etiam nunc libet.</l>
-                     <l n="447">Opperiar hominem hic, ut salutem et conloquar.
-</l>
+                     <l n="447">Opperiar hominem hic, ut salutem et conloquar.</l>
                   </sp>
                </div>
                <div type="textpart" n="4" subtype="scene">
@@ -1753,24 +1593,21 @@
                   <sp>
                      <speaker>He.</speaker>
                      <l n="448">Pro Di immortales, facinus indignum, Geta.</l>
-                     <l n="449">Quid narras? 
-   </l>
+                     <l n="449">Quid narras?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Sic est factum. 
-   </l>
+                     <l part="Y">Sic est factum.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Ex illan familia</l>
+                     <l part="Y">Ex illan familia</l>
                      <l n="450">Tam illiberale facinus esse ortum? O Aeschine,</l>
-                     <l n="451">Pol haud paternum istuc dedisti. 
-   </l>
+                     <l n="451">Pol haud paternum istuc dedisti.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Videlicet</l>
+                     <l part="Y">Videlicet</l>
                      <lb ed="actscene" n="5"/>
                      <l n="452">De psaltria hac audivit: id illi nunc dolet</l>
                      <l n="453">Alieno: pater is nihili pendit. Hei mihi!</l>
@@ -1778,8 +1615,7 @@
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l n="455">Nisi facient quae illos aequum est, haud sic auferent.
-</l>
+                     <l n="455">Nisi facient quae illos aequum est, haud sic auferent.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
@@ -1787,73 +1623,64 @@
                      <lb ed="actscene" n="10"/>
                      <l n="457">Te solum habemus: tu es patronus, tu parens:</l>
                      <l n="458">Ille tibi moriens nos commendavit senex.</l>
-                     <l n="459">Si deseris tu, periimus. 
-   </l>
+                     <l n="459">Si deseris tu, periimus.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Cave dixeris.</l>
+                     <l part="Y">Cave dixeris.</l>
                      <l n="460">Neque faciam, neque me satis pie posse arbitror.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <l n="461">Adibo. Salvere Hegionem plurimum</l>
                      <lb ed="actscene" n="15"/>
-                     <l n="462">Iubeo. 
-   </l>
+                     <l n="462">Iubeo.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Te quaerebam ipsum. Salve Demea.</l>
+                     <l part="Y">Te quaerebam ipsum. Salve Demea.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="463">Quid autem? 
-   </l>
+                     <l n="463">Quid autem?</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Maior filius tuus Aeschinus,</l>
+                     <l part="Y">Maior filius tuus Aeschinus,</l>
                      <l n="464">Quem fratri adoptandum dedisti, neque boni</l>
                      <l n="465">Neque liberalis functus officium est viri.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="466">Quid istuc est? 
-   </l>
+                     <l n="466">Quid istuc est?</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Nostrum amicum noras Simulum</l>
+                     <l part="Y">Nostrum amicum noras Simulum</l>
                      <lb ed="actscene" n="20"/>
-                     <l n="467">Atque aequalem? 
-   </l>
+                     <l n="467">Atque aequalem?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Quidni? 
-   </l>
+                     <l part="Y">Quidni?</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Filiam eius virginem</l>
-                     <l n="468">Vitiavit. 
-   </l>
+                     <l part="Y">Filiam eius virginem</l>
+                     <l n="468">Vitiavit.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Hem! 
-   </l>
+                     <l part="Y">Hem!</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Mane; nondum audisti, Demea,</l>
-                     <l n="469">Quod est gravissimum. 
-   </l>
+                     <l part="Y">Mane; nondum audisti, Demea,</l>
+                     <l n="469">Quod est gravissimum.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> An quid est etiam amplius?</l>
+                     <l part="Y">An quid est etiam amplius?</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
@@ -1871,12 +1698,11 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="479">Pro certon tu istaec dicis? 
-   </l>
+                     <l n="479">Pro certon tu istaec dicis?</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Mater virginis</l>
+                     <l part="Y">Mater virginis</l>
                      <l n="480">In medio est; ipsa virgo; res ipsa: hic Geta</l>
                      <l n="481">Praeterea, ut captus est servorum non malus</l>
                      <lb ed="actscene" n="35"/>
@@ -1892,29 +1718,25 @@
                      <speaker>De.</speaker>
                      <l n="486">Pudet: nec quid agam neque quid huic respondeam</l>
                      <lb ed="actscene" n="40"/>
-                     <l n="487">Scio. 
-   </l>
+                     <l n="487">Scio.</l>
                   </sp>
                   <sp>
                      <speaker>Pa.</speaker>
-                     <l part="Y"> Miseram me, differor doloribus.</l>
-                     <l n="488">Iuno Lucina, fer opem: serva me, obsecro. 
-   </l>
+                     <l part="Y">Miseram me, differor doloribus.</l>
+                     <l n="488">Iuno Lucina, fer opem: serva me, obsecro.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Hem.</l>
-                     <l n="489">Numnam illa quaeso parturit? 
-   </l>
+                     <l part="Y">Hem.</l>
+                     <l n="489">Numnam illa quaeso parturit?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Certe Hegio. 
-   </l>
+                     <l part="Y">Certe Hegio.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Hem.</l>
+                     <l part="Y">Hem.</l>
                      <l n="490">Illaec fidem nunc vestram implorat, Demea:</l>
                      <l n="491">Quod vos vis cogit, id voluntate impetret.</l>
                      <lb ed="actscene" n="45"/>
@@ -1927,12 +1749,11 @@
                      <l n="497">Fuimus; paupertatem una pertulimus gravem.</l>
                      <l n="498">Quapropter nitar, faciam, experiar, denique</l>
                      <l n="499">Animam relinquam potius quam illas deseram.</l>
-                     <l n="500">Quid mihi respondes? 
-   </l>
+                     <l n="500">Quid mihi respondes?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Fratrem conveniam, Hegio:</l>
+                     <l part="Y">Fratrem conveniam, Hegio:</l>
                      <l n="501">Is quod mihi de hac re dederit consilium id sequar.</l>
                   </sp>
                   <sp>
@@ -1959,8 +1780,7 @@
                      <l n="510">Defunctum: verum nimia illaec licentia</l>
                      <l n="511">Profecto evadet in aliquod magnum malum.</l>
                      <lb ed="actscene" n="65"/>
-                     <l n="512">Ibo ac requiram fratrem, ut in eum haec evomam.
-</l>
+                     <l n="512">Ibo ac requiram fratrem, ut in eum haec evomam.</l>
                   </sp>
                </div>
                <div type="textpart" n="5" subtype="scene">
@@ -1970,8 +1790,7 @@
                   <l n="515">Conveniam; atque ut res gesta est narrabo ordine.</l>
                   <l n="516">Si est facturus ut sit officium suum,</l>
                   <l n="517">Faciat: sin aliter de hac re est eius sententia,</l>
-                  <l n="518">Respondeat mihi; ut quid agam quamprimum sciam.
-</l>
+                  <l n="518">Respondeat mihi; ut quid agam quamprimum sciam.</l>
                </div>
             </div>
             <div type="textpart" n="4" subtype="act">
@@ -1979,40 +1798,35 @@
                   <stage>CTESIPHO. SYRUS.</stage>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l n="519">Ain patrem hinc abisse rus? 
-   </l>
+                     <l n="519">Ain patrem hinc abisse rus?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Iamdudum. 
-   </l>
+                     <l part="Y">Iamdudum.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Dic sodes. 
-   </l>
+                     <l part="Y">Dic sodes.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Apud villam est.</l>
-                     <l n="520">Nunc cum maxime operis aliquid facere credo. 
-   </l>
+                     <l part="Y">Apud villam est.</l>
+                     <l n="520">Nunc cum maxime operis aliquid facere credo.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Utinam quidem,</l>
+                     <l part="Y">Utinam quidem,</l>
                      <l n="521">Quod cum salute eius fiat, ita se defatigarit velim,</l>
                      <l n="522">Ut triduo hoc perpetuo prorsum e lecto nequeat surgere.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <lb ed="actscene" n="5"/>
-                     <l n="523">Ita fiat, et istoc si quid potis est rectius. 
-   </l>
+                     <l n="523">Ita fiat, et istoc si quid potis est rectius.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Ita: nam hunc diem</l>
+                     <l part="Y">Ita: nam hunc diem</l>
                      <l n="524">Misere nimis cupio, ut coepi, perpetuum in laetitia degere:</l>
                      <l n="525">Et illud rus nulla alia causa tam male odi, nisi quia prope est:</l>
                      <l n="526">Quod si abesset longius,</l>
@@ -2020,116 +1834,98 @@
                      <lb ed="actscene" n="10"/>
                      <l n="528">Nunc ubi me illic non videbit iam huc recurret, sat scio.</l>
                      <l n="529">Rogitabit me ubi fuerim; quem ego hodie toto non vidi die.</l>
-                     <l n="530">Quid dicam? 
-   </l>
+                     <l n="530">Quid dicam?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Nihilne in mentem? 
-   </l>
+                     <l part="Y">Nihilne in mentem?</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Nunquam quicquam. 
-   </l>
+                     <l part="Y">Nunquam quicquam.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Tanto nequior.</l>
-                     <l n="531">Cliens, amicus, hospes, nemo est vobis? 
-   </l>
+                     <l part="Y">Tanto nequior.</l>
+                     <l n="531">Cliens, amicus, hospes, nemo est vobis?</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Sunt: quid postea ?</l>
+                     <l part="Y">Sunt: quid postea ?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="532">Hisce opera ut data sit. 
-   </l>
+                     <l n="532">Hisce opera ut data sit.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Quae non data sit? non potest fieri. 
-   </l>
+                     <l part="Y">Quae non data sit? non potest fieri.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Potest.</l>
+                     <l part="Y">Potest.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
                      <lb ed="actscene" n="15"/>
-                     <l n="533">Interdiu: sed si hic pernocto, causae quid dicam, Syre?
-</l>
+                     <l n="533">Interdiu: sed si hic pernocto, causae quid dicam, Syre?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <l n="534">Vah, quam vellem etiam noctu amicis operam mos esset dari.</l>
                      <l n="535">Quin tu otiosus es: ego illius sensum pulchre calleo.</l>
-                     <l n="536">Quum fervit maxime tam placidum quam ovem reddo. 
-   </l>
+                     <l n="536">Quum fervit maxime tam placidum quam ovem reddo.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Quo modo?</l>
+                     <l part="Y">Quo modo?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <l n="537">Laudarier te audit libenter: facio te apud illum Deum:</l>
                      <lb ed="actscene" n="20"/>
-                     <l n="538">Virtutes narro. 
-   </l>
+                     <l n="538">Virtutes narro.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Meas? 
-   </l>
+                     <l part="Y">Meas?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Tuas: homini ilico lacrimae cadunt</l>
-                     <l n="539">Quasi puero gaudio. Hem tibi autem. 
-   </l>
+                     <l part="Y">Tuas: homini ilico lacrimae cadunt</l>
+                     <l n="539">Quasi puero gaudio. Hem tibi autem.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Quidnam est? 
-   </l>
+                     <l part="Y">Quidnam est?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Lupus in fabula.</l>
+                     <l part="Y">Lupus in fabula.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l n="540">Pater est? 
-   </l>
+                     <l n="540">Pater est?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Ipsus est. 
-   </l>
+                     <l part="Y">Ipsus est.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Syre, quid agimus? 
-   </l>
+                     <l part="Y">Syre, quid agimus?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Fuge modo intro: ego videro.</l>
+                     <l part="Y">Fuge modo intro: ego videro.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l n="541">Si quid rogabit, nusquam tu me: audistin? 
-   </l>
+                     <l n="541">Si quid rogabit, nusquam tu me: audistin?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Potin ut desinas?
-
-</l>
+                     <l part="Y">Potin ut desinas?</l>
                   </sp>
                </div>
                <div type="textpart" n="2" subtype="scene">
@@ -2142,32 +1938,27 @@
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l n="545">Syre. 
-   </l>
+                     <l n="545">Syre.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Quid est? 
-   </l>
+                     <l part="Y">Quid est?</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Men quaerit? 
-   </l>
+                     <l part="Y">Men quaerit?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Verum. 
-   </l>
+                     <l part="Y">Verum.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Perii! 
-   </l>
+                     <l part="Y">Perii!</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Quin tu animo bono es.</l>
+                     <l part="Y">Quin tu animo bono es.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
@@ -2175,8 +1966,7 @@
                      <l n="546">Quid hoc, malum, infelicitatis? nequeo satis decernere;</l>
                      <l n="547">Nisi me credo huic esse natum rei, ferendis miseriis.</l>
                      <l n="548">Primus sentio mala nostra; primus rescisco omnia;</l>
-                     <l n="549">Primus porro obnuntio: aegre solus si quid fit fero.
-</l>
+                     <l n="549">Primus porro obnuntio: aegre solus si quid fit fero.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -2185,34 +1975,30 @@
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="10"/>
-                     <l n="551">Nunc redeo: si forte frater redierit viso. 
-   </l>
+                     <l n="551">Nunc redeo: si forte frater redierit viso.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Syre,</l>
-                     <l n="552">Obsecro vide ne ille huc prorsus se irruat. 
-   </l>
+                     <l part="Y">Syre,</l>
+                     <l n="552">Obsecro vide ne ille huc prorsus se irruat.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Etiam taces?</l>
-                     <l n="553">Ego cavebo. 
-   </l>
+                     <l part="Y">Etiam taces?</l>
+                     <l n="553">Ego cavebo.</l>
                   </sp>
                   <sp>
                      <speaker>Ct.</speaker>
-                     <l part="Y"> Nunquam hercle hodie ego istuc committam tibi;</l>
+                     <l part="Y">Nunquam hercle hodie ego istuc committam tibi;</l>
                      <l n="554">Nam me iam in cellam aliquam cum illa concludam: id tutissimum est.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="555">Age, tamen ego hunc amovebo. 
-   </l>
+                     <l n="555">Age, tamen ego hunc amovebo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Sed eccum sceleratum Syrum.</l>
+                     <l part="Y">Sed eccum sceleratum Syrum.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -2226,49 +2012,42 @@
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="559">Quid, malum, "Bone vir," mihi narras? Equidem perii. 
-   </l>
+                     <l n="559">Quid, malum, "Bone vir," mihi narras? Equidem perii.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Quid tibi est?</l>
+                     <l part="Y">Quid tibi est?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <l n="560">Rogitas? Ctesipho me pugnis miserum et istam psaltriam</l>
                      <lb ed="actscene" n="20"/>
-                     <l n="561">Usque occidit. 
-   </l>
+                     <l n="561">Usque occidit.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Hem, quid narras? 
-   </l>
+                     <l part="Y">Hem, quid narras?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Hem! vide, ut discidit labrum.
-</l>
+                     <l part="Y">Hem! vide, ut discidit labrum.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="562">Quamobrem? 
-   </l>
+                     <l n="562">Quamobrem?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Me impulsore hanc emtam esse ait. 
-   </l>
+                     <l part="Y">Me impulsore hanc emtam esse ait.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Non tu eum rus hinc modo</l>
-                     <l n="563">Produxe aibas? 
-   </l>
+                     <l part="Y">Non tu eum rus hinc modo</l>
+                     <l n="563">Produxe aibas?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Factum: verum venit post insaniens:</l>
+                     <l part="Y">Factum: verum venit post insaniens:</l>
                      <l n="564">Nihil pepercit. Non puduisse verberare hominem senem,</l>
                      <l n="565">Quem ego modo puerum tantillum in manibus gestavi meis?</l>
                   </sp>
@@ -2283,68 +2062,59 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="568">Fortiter. 
-   </l>
+                     <l n="568">Fortiter.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Perquam! quia miseram mulierem, et me servulum</l>
+                     <l part="Y">Perquam! quia miseram mulierem, et me servulum</l>
                      <l n="569">Qui referire non audebam, vicit: hui, perfortiter!</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <l n="570">Non potuit melius: idem quod ego sensit te esse huic rei caput.</l>
                      <lb ed="actscene" n="30"/>
-                     <l n="571">Sed estne frater intus? 
-   </l>
+                     <l n="571">Sed estne frater intus?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Non est. 
-   </l>
+                     <l part="Y">Non est.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Ubi illum quaeram cogito.
-</l>
+                     <l part="Y">Ubi illum quaeram cogito.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="572">Scio ubi sit; verum hodie nunquam monstrabo. 
-   </l>
+                     <l n="572">Scio ubi sit; verum hodie nunquam monstrabo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Hem, quid ais? 
-   </l>
+                     <l part="Y">Hem, quid ais?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Ita.</l>
+                     <l part="Y">Ita.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="573">Diminuetur tibi quidem iam cerebrum. 
-   </l>
+                     <l n="573">Diminuetur tibi quidem iam cerebrum.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> At nomen nescio</l>
-                     <l n="574">Illius hominis; sed locum novi ubi sit. 
-   </l>
+                     <l part="Y">At nomen nescio</l>
+                     <l n="574">Illius hominis; sed locum novi ubi sit.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Dic ergo locum.</l>
+                     <l part="Y">Dic ergo locum.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="575">Nostin porticum apud macellum hanc deorsum? 
-   </l>
+                     <l n="575">Nostin porticum apud macellum hanc deorsum?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Quidni noverim?</l>
+                     <l part="Y">Quidni noverim?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -2355,54 +2125,47 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="579">Quonam? 
-   </l>
+                     <l n="579">Quonam?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Illic ubi etiam caprificus magna est: nostin? 
-   </l>
+                     <l part="Y">Illic ubi etiam caprificus magna est: nostin?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Novi. 
-   </l>
+                     <l part="Y">Novi.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Hac pergito.</l>
+                     <l part="Y">Hac pergito.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="580">Id quidem angiportum non est pervium. 
-   </l>
+                     <l n="580">Id quidem angiportum non est pervium.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Verum hercle. Vah,</l>
+                     <l part="Y">Verum hercle. Vah,</l>
                      <lb ed="actscene" n="40"/>
                      <l n="581">Censen hominem me esse? erravi. In porticum rursum redi:</l>
                      <l n="582">Sane hac multo propius ibis, et minor est erratio.</l>
-                     <l n="583">Scin Cratini huius ditis aedes? 
-   </l>
+                     <l n="583">Scin Cratini huius ditis aedes?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Scio. 
-   </l>
+                     <l part="Y">Scio.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Ubi eas praeterieris</l>
+                     <l part="Y">Ubi eas praeterieris</l>
                      <l n="584">Ad sinistram hac recta platea: ubi ad Dianae veneris</l>
                      <l n="585">Ito ad dextram: priusquam ad portam venias apud ipsum lacum</l>
                      <lb ed="actscene" n="45"/>
-                     <l n="586">Est pistrilla et exadversum fabrica: ibi est. 
-   </l>
+                     <l n="586">Est pistrilla et exadversum fabrica: ibi est.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Quid ibi facit?</l>
+                     <l part="Y">Quid ibi facit?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -2419,8 +2182,7 @@
                      <lb ed="actscene" n="50"/>
                      <l n="591">Ctesipho autem in amore est totus. Ego iam prospiciam mihi:</l>
                      <l n="592">Nam iam adibo, atque unumquicquid quod quidem erit bellissimum</l>
-                     <l n="593">Carpam; et cyathos sorbilans paulatim hunc producam diem.
-</l>
+                     <l n="593">Carpam; et cyathos sorbilans paulatim hunc producam diem.</l>
                   </sp>
                </div>
                <div type="textpart" n="3" subtype="scene">
@@ -2439,31 +2201,27 @@
                      <l n="599">Ah, minime: nunquam te aliter atque es in animum induxi meum.</l>
                      <l n="600">Sed quaeso ut una mecum ad matrem virginis eas, Micio,</l>
                      <l n="601">Atque istaec eadem quae mihi dixti tute dicas mulieri;</l>
-                     <l n="602">Suspicionem hanc propter fratrem eius esse et illam psaltriam.
-</l>
+                     <l n="602">Suspicionem hanc propter fratrem eius esse et illam psaltriam.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <lb ed="actscene" n="10"/>
-                     <l n="603">Si ita aequum censes, aut si ita opus est facto, camus. 
-   </l>
+                     <l n="603">Si ita aequum censes, aut si ita opus est facto, camus.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Bene facis;</l>
+                     <l part="Y">Bene facis;</l>
                      <l n="604">Nam et illi animum iam relevabis, quae dolore ac miseria</l>
                      <l n="605">Tabescit; et tuo officio fueris functus: sed si aliter putas,</l>
-                     <l n="606">Egomet narrabo quae mihi dixti. 
-   </l>
+                     <l n="606">Egomet narrabo quae mihi dixti.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Immo ego ibo. 
-   </l>
+                     <l part="Y">Immo ego ibo.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Bene facis.</l>
+                     <l part="Y">Bene facis.</l>
                      <l n="607">Omnes quibus res sunt minus secundae magis sunt nescio quomodo</l>
                      <lb ed="actscene" n="15"/>
                      <l n="608">Suspiciosi; ad contumeliam omnia accipiunt magis;</l>
@@ -2472,19 +2230,15 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="611">Et recte et verum dicis. 
-   </l>
+                     <l n="611">Et recte et verum dicis.</l>
                   </sp>
                   <sp>
                      <speaker>He.</speaker>
-                     <l part="Y"> Sequere me ergo hac intro. 
-   </l>
+                     <l part="Y">Sequere me ergo hac intro.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Maxime.
-
-</l>
+                     <l part="Y">Maxime.</l>
                   </sp>
                </div>
                <div type="textpart" n="4" subtype="scene">
@@ -2520,9 +2274,7 @@
                   <lb ed="actscene" n="25"/>
                   <l n="636">Perii! horresco semper ubi pultare hasce occipio miser.</l>
                   <l n="637">Heus, heus: Aeschinus ego sum: aperite aliquis actutum ostium.</l>
-                  <l n="638">Prodit nescio quis: concedam huc.
-
-</l>
+                  <l n="638">Prodit nescio quis: concedam huc.</l>
                </div>
                <div type="textpart" n="5" subtype="scene">
                   <stage>MICIO. AESCHINUS.</stage>
@@ -2530,140 +2282,121 @@
                      <speaker>Mi.</speaker>
                      <l n="639">Ita uti dixi, Sostrata,</l>
                      <l n="640">Facite: ego Aeschinum conveniam, ut quomodo acta haec sint sciat.</l>
-                     <l n="641">Sed quis ostium hoc pultavit? 
-   </l>
+                     <l n="641">Sed quis ostium hoc pultavit?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Pater hercle est: perii. 
-   </l>
+                     <l part="Y">Pater hercle est: perii.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Aeschine.</l>
+                     <l part="Y">Aeschine.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="642">Quid huic hic negoti est? 
-   </l>
+                     <l n="642">Quid huic hic negoti est?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Tune has pepulisti fores?</l>
+                     <l part="Y">Tune has pepulisti fores?</l>
                      <lb ed="actscene" n="5"/>
                      <l n="643">Tacet. Cur non ludo hunc aliquantisper? Melius est,</l>
                      <l n="644">Quandoquidem hoc nunquam mihi ipse voluit credere.</l>
-                     <l n="645">Nihil mihi respondes? 
-   </l>
+                     <l n="645">Nihil mihi respondes?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Non equidem istas quod sciam.</l>
+                     <l part="Y">Non equidem istas quod sciam.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <l n="646">Ita? nam mirabar quid hic negoti esset tibi.</l>
-                     <l n="647">Erubuit: salva res est. 
-   </l>
+                     <l n="647">Erubuit: salva res est.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Dic sodes, pater,</l>
+                     <l part="Y">Dic sodes, pater,</l>
                      <lb ed="actscene" n="10"/>
-                     <l n="648">Tibi vero quid istic est rei? 
-   </l>
+                     <l n="648">Tibi vero quid istic est rei?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Nihil mihi quidem:</l>
+                     <l part="Y">Nihil mihi quidem:</l>
                      <l n="649">Amicus quidam me a foro abduxit modo</l>
-                     <l n="650">Huc advocatum sibi. 
-   </l>
+                     <l n="650">Huc advocatum sibi.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Quid? 
-   </l>
+                     <l part="Y">Quid?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ego dicam tibi:</l>
+                     <l part="Y">Ego dicam tibi:</l>
                      <l n="651">Habitant hic quaedam mulieres pauperculae,</l>
                      <l n="652">Ut opinor; has non nosse te et certo scio;</l>
                      <lb ed="actscene" n="15"/>
-                     <l n="653">Neque enim diu huc commigrarunt. 
-   </l>
+                     <l n="653">Neque enim diu huc commigrarunt.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Quid tum postea?</l>
+                     <l part="Y">Quid tum postea?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="654">Virgo est cum matre. 
-   </l>
+                     <l n="654">Virgo est cum matre.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Perge. 
-   </l>
+                     <l part="Y">Perge.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Haec virgo orba est patre:</l>
+                     <l part="Y">Haec virgo orba est patre:</l>
                      <l n="655">Hic meus amicus illi genere est proximus:</l>
-                     <l n="656">Huic leges cogunt nubere hanc. 
-   </l>
+                     <l n="656">Huic leges cogunt nubere hanc.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Perii. 
-   </l>
+                     <l part="Y">Perii.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quid est?</l>
+                     <l part="Y">Quid est?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="657">Nihil: recte: perge. 
-   </l>
+                     <l n="657">Nihil: recte: perge.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Is venit ut secum avehat;</l>
+                     <l part="Y">Is venit ut secum avehat;</l>
                      <lb ed="actscene" n="20"/>
-                     <l n="658">Nam habitat Mileti. 
-   </l>
+                     <l n="658">Nam habitat Mileti.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Hem, virginem ut secum avehat?</l>
+                     <l part="Y">Hem, virginem ut secum avehat?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="659">Sic est. 
-   </l>
+                     <l n="659">Sic est.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Miletum usque obsecro? 
-   </l>
+                     <l part="Y">Miletum usque obsecro?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ita. 
-   </l>
+                     <l part="Y">Ita.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Animo male est.</l>
-                     <l n="660">Quid ipsae? quid aiunt? 
-   </l>
+                     <l part="Y">Animo male est.</l>
+                     <l n="660">Quid ipsae? quid aiunt?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quid illas censes? nihil enim.</l>
+                     <l part="Y">Quid illas censes? nihil enim.</l>
                      <l n="661">Commenta mater est esse ex alio viro</l>
                      <l n="662">Nescio quo puerum natum; neque eum nominat;</l>
                      <lb ed="actscene" n="25"/>
@@ -2675,33 +2408,30 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="665">Non. 
-   </l>
+                     <l n="665">Non.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Obsecro, non? an illam hinc abducet, pater?</l>
+                     <l part="Y">Obsecro, non? an illam hinc abducet, pater?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="666">Quid illam ni abducat? 
-   </l>
+                     <l n="666">Quid illam ni abducat?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Factum a vobis duriter</l>
+                     <l part="Y">Factum a vobis duriter</l>
                      <l n="667">Immisericorditerque; atque etiam, si est, pater,</l>
                      <lb ed="actscene" n="30"/>
                      <l n="668">Dicendum magis aperte, illiberaliter.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="669">Quamobrem? 
-   </l>
+                     <l n="669">Quamobrem?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Rogas me? quid illi tandem creditis</l>
+                     <l part="Y">Rogas me? quid illi tandem creditis</l>
                      <l n="670">Fore animi misero quicum illa consuevit prius,</l>
                      <l n="671">Qui infelix haud scio an illam misere nunc amat,</l>
                      <l n="672">Quum hanc sibi videbit praesens praesenti eripi,</l>
@@ -2712,12 +2442,11 @@
                      <speaker>Mi.</speaker>
                      <l n="674">Qua ratione istuc? quis despondit? quis dedit?</l>
                      <l n="675">Cui, quando nupsit? auctor his rebus quis est?</l>
-                     <l n="676">Cur duxit alienam? 
-   </l>
+                     <l n="676">Cur duxit alienam?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> An sedere oportuit</l>
+                     <l part="Y">An sedere oportuit</l>
                      <l n="677">Domi virginem tam grandem, dum cognatus hinc</l>
                      <lb ed="actscene" n="40"/>
                      <l n="678">Illinc veniret exspectantem? Haec, mi pater,</l>
@@ -2729,29 +2458,26 @@
                      <l n="681">Cui veneram advocatus? sed, quid ista, Aeschine,</l>
                      <l n="682">Nostra? aut quid nobis cum illis? abeamus. Quid est?</l>
                      <lb ed="actscene" n="45"/>
-                     <l n="683">Quid lacrimas? 
-   </l>
+                     <l n="683">Quid lacrimas?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Pater obsecro ausculta. 
-   </l>
+                     <l part="Y">Pater obsecro ausculta.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Aeschine, audivi omnia</l>
+                     <l part="Y">Aeschine, audivi omnia</l>
                      <l n="684">Et scio; nam te amo; quo magis quae agis curae sunt mihi.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
                      <l n="685">Ita velim me promerentem ames dum vivas mi pater,</l>
                      <l n="686">Ut me hoc delictum admisisse in me id mihi vehementer dolet,</l>
-                     <l n="687">Et me tui pudet. 
-   </l>
+                     <l n="687">Et me tui pudet.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Credo hercle; nam ingenium novi tuum</l>
+                     <l part="Y">Credo hercle; nam ingenium novi tuum</l>
                      <lb ed="actscene" n="50"/>
                      <l n="688">Liberale: sed vereor ne indiligens nimium sies.</l>
                      <l n="689">In qua civitate tandem te arbitrare vivere?</l>
@@ -2767,93 +2493,79 @@
                      <lb ed="actscene" n="60"/>
                      <l n="698">Et illam sine tua opera in cubiculum iri deductum domum?</l>
                      <l n="699">Nolim ceterarum rerum te socordem eodem modo.</l>
-                     <l n="700">Bono animo es: duces uxorem hanc. 
-   </l>
+                     <l n="700">Bono animo es: duces uxorem hanc.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Hem. 
-   </l>
+                     <l part="Y">Hem.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Bono animo es, inquam. 
-   </l>
+                     <l part="Y">Bono animo es, inquam.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Pater,</l>
-                     <l n="701">Obsecro, non ludis tu nunc me? 
-   </l>
+                     <l part="Y">Pater,</l>
+                     <l n="701">Obsecro, non ludis tu nunc me?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ego te? quamobrem? 
-   </l>
+                     <l part="Y">Ego te? quamobrem?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Nescio;</l>
+                     <l part="Y">Nescio;</l>
                      <l n="702">Nisi quia tam misere hoc esse cupio verum eo vereor magis.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <lb ed="actscene" n="65"/>
-                     <l n="703">Abi domum, ac Deos comprecare ut uxorem arcessas: abi.
-</l>
+                     <l n="703">Abi domum, ac Deos comprecare ut uxorem arcessas: abi.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="704">Quid? iam uxorem? 
-   </l>
+                     <l n="704">Quid? iam uxorem?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Iam. 
-   </l>
+                     <l part="Y">Iam.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Iam? 
-   </l>
+                     <l part="Y">Iam?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Iam, quantum potest. 
-   </l>
+                     <l part="Y">Iam, quantum potest.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Di me, pater,</l>
+                     <l part="Y">Di me, pater,</l>
                      <l n="705">Omnes oderint ni magis te quam oculos nunc amo meos.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="706">Quid? quam illam? 
-   </l>
+                     <l n="706">Quid? quam illam?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Aeque. 
-   </l>
+                     <l part="Y">Aeque.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Perbenigne. 
-   </l>
+                     <l part="Y">Perbenigne.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Quid? ille ubi est Milesius?</l>
+                     <l part="Y">Quid? ille ubi est Milesius?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="707">Abiit; periit; navem adscendit. Sed cur cessas? 
-   </l>
+                     <l n="707">Abiit; periit; navem adscendit. Sed cur cessas?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Abi pater:</l>
+                     <l part="Y">Abi pater:</l>
                      <lb ed="actscene" n="70"/>
                      <l n="708">Tu potius Deos comprecare; nam tibi eos certo scio,</l>
                      <l n="709">Quo vir melior multo es quam ego, obtemperaturos magis.</l>
@@ -2870,8 +2582,7 @@
                      <l n="713">Hic non amandus? hicine non gestandus in sinu est? hem!</l>
                      <l n="714">Itaque adeo magnam mili iniecit sua commoditate curam</l>
                      <l n="715">Ne forte imprudens faciam quod nolit: sciens cavebo.</l>
-                     <l n="716">Sed cesso ire intro ne morae meis nuptiis egomet siem?
-</l>
+                     <l n="716">Sed cesso ire intro ne morae meis nuptiis egomet siem?</l>
                   </sp>
                </div>
                <div type="textpart" n="6" subtype="scene">
@@ -2882,8 +2593,7 @@
                   <l n="720">Quo non? neque illic fabrica ulla erat, neque fratrem homo</l>
                   <lb ed="actscene" n="5"/>
                   <l n="721">Vidisse se aibat quisquam: nunc vero domi</l>
-                  <l n="722">Certum obsidere est usque donec redierit.
-</l>
+                  <l n="722">Certum obsidere est usque donec redierit.</l>
                </div>
                <div type="textpart" n="7" subtype="scene">
                   <stage>MICIO. DEMEA.</stage>
@@ -2897,144 +2607,124 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="725">Quidnam? 
-   </l>
+                     <l n="725">Quidnam?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Fero alia flagitia ad te ingentia</l>
-                     <l n="726">Boni illius adolescentis. 
-   </l>
+                     <l part="Y">Fero alia flagitia ad te ingentia</l>
+                     <l n="726">Boni illius adolescentis.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ecce autem! 
-   </l>
+                     <l part="Y">Ecce autem!</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Nova;</l>
+                     <l part="Y">Nova;</l>
                      <lb ed="actscene" n="5"/>
-                     <l n="727">Capitalia. 
-   </l>
+                     <l n="727">Capitalia.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ohe, iam. 
-   </l>
+                     <l part="Y">Ohe, iam.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Nescis qui vir sit. 
-   </l>
+                     <l part="Y">Nescis qui vir sit.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Scio.</l>
+                     <l part="Y">Scio.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <l n="728">O stulte, tu de psaltria me somnias</l>
-                     <l n="729">Agere: hoc peccatum in virginem est civem. 
-   </l>
+                     <l n="729">Agere: hoc peccatum in virginem est civem.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Scio.</l>
+                     <l part="Y">Scio.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="730">Oho, scis et patere? 
-   </l>
+                     <l n="730">Oho, scis et patere?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quidni patiar? 
-   </l>
+                     <l part="Y">Quidni patiar?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Dic mihi,</l>
-                     <l n="731">Non clamas? non insanis? 
-   </l>
+                     <l part="Y">Dic mihi,</l>
+                     <l n="731">Non clamas? non insanis?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Non. Malim quidem—</l>
+                     <l part="Y">Non. Malim quidem—</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="10"/>
-                     <l n="732">Puer natus est. 
-   </l>
+                     <l n="732">Puer natus est.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Di bene vertant! 
-   </l>
+                     <l part="Y">Di bene vertant!</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Virgo nihil habet.</l>
+                     <l part="Y">Virgo nihil habet.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="733">Audivi. 
-   </l>
+                     <l n="733">Audivi.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Et ducenda indotata est? 
-   </l>
+                     <l part="Y">Et ducenda indotata est?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Scilicet.</l>
+                     <l part="Y">Scilicet.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="734">Quid nunc futurum est? 
-   </l>
+                     <l n="734">Quid nunc futurum est?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Id enim quod res ipsa fert:</l>
-                     <l n="735">Illinc huc transferetur virgo. 
-   </l>
+                     <l part="Y">Id enim quod res ipsa fert:</l>
+                     <l n="735">Illinc huc transferetur virgo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> O Iupiter!</l>
-                     <l n="736">Istocine pacto oportet? 
-   </l>
+                     <l part="Y">O Iupiter!</l>
+                     <l n="736">Istocine pacto oportet?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quid faciam amplius?</l>
+                     <l part="Y">Quid faciam amplius?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="15"/>
                      <l n="737">Quid facias? Si non ipsa re istuc tibi dolet,</l>
-                     <l n="738">Simulare certe est hominis. 
-   </l>
+                     <l n="738">Simulare certe est hominis.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quin iam virginem</l>
+                     <l part="Y">Quin iam virginem</l>
                      <l n="739">Despondi; res composita est; fiunt nuptiae:</l>
-                     <l n="740">Demsi metum omnem: haec magis sunt hominis. 
-   </l>
+                     <l n="740">Demsi metum omnem: haec magis sunt hominis.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Caeterum,</l>
-                     <l n="741">Placet tibi factum, Micio? 
-   </l>
+                     <l part="Y">Caeterum,</l>
+                     <l n="741">Placet tibi factum, Micio?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Non, si queam</l>
+                     <l part="Y">Non, si queam</l>
                      <lb ed="actscene" n="20"/>
                      <l n="742">Mutare: nunc, quum non queo, aequo animo fero.</l>
                      <l n="743">Ita vita est hominum quasi quum ludas tesseris:</l>
@@ -3054,33 +2744,29 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="750">Quid igitur facies? 
-   </l>
+                     <l n="750">Quid igitur facies?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Domi erit. 
-   </l>
+                     <l part="Y">Domi erit.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Pro Divum fidem!</l>
+                     <l part="Y">Pro Divum fidem!</l>
                      <l n="751">Meretrix et materfamilias una in domo?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <lb ed="actscene" n="30"/>
-                     <l n="752">Cur non? 
-   </l>
+                     <l n="752">Cur non?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Sanum te credis esse? 
-   </l>
+                     <l part="Y">Sanum te credis esse?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Equidem arbitror.</l>
+                     <l part="Y">Equidem arbitror.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
@@ -3089,63 +2775,54 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="755">Cur non? 
-   </l>
+                     <l n="755">Cur non?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Et nova nupta eadem haece discet? 
-   </l>
+                     <l part="Y">Et nova nupta eadem haece discet?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Scilicet.</l>
+                     <l part="Y">Scilicet.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="756">Tu inter eas restim ductans saltabis. 
-   </l>
+                     <l n="756">Tu inter eas restim ductans saltabis.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Probe.</l>
+                     <l part="Y">Probe.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="35"/>
-                     <l n="757">Probe? 
-   </l>
+                     <l n="757">Probe?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Et tu nobiscum una, si opus sit. 
-   </l>
+                     <l part="Y">Et tu nobiscum una, si opus sit.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Hei mihi!</l>
-                     <l n="758">Non te haec pudent? 
-   </l>
+                     <l part="Y">Hei mihi!</l>
+                     <l n="758">Non te haec pudent?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Iam vero omitte, Demea,</l>
+                     <l part="Y">Iam vero omitte, Demea,</l>
                      <l n="759">Tuam istanc iracundiam; atque ita uti decet</l>
                      <l n="760">Hilarum ac libentem fac te gnati in nuptiis.</l>
-                     <l n="761">Ego hos conveniam: post huc redeo. 
-   </l>
+                     <l n="761">Ego hos conveniam: post huc redeo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> O Iupiter!</l>
+                     <l part="Y">O Iupiter!</l>
                      <lb ed="actscene" n="40"/>
                      <l n="762">Hancine vitam? hoscine mores? hanc dementiam?</l>
                      <l n="763">Uxor sine dote veniet; intus psaltria est:</l>
                      <l n="764">Domus sumtuosa; adolescens luxu perditus;</l>
                      <l n="765">Senex delirans. Ipsa si cupiat Salus</l>
-                     <l n="766">Servare prorsus non potest hanc familiam.
-
-</l>
+                     <l n="766">Servare prorsus non potest hanc familiam.</l>
                   </sp>
                </div>
             </div>
@@ -3157,25 +2834,22 @@
                      <l n="767">Edepol, Syrisce, te curasti molliter,</l>
                      <l n="768">Lauteque munus administrasti tuum.</l>
                      <l n="769">Abi. Sed postquam intus sum omnium rerum satur,</l>
-                     <l n="770">Prodeambulare huc libitum est. 
-   </l>
+                     <l n="770">Prodeambulare huc libitum est.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Illud sis vide</l>
+                     <l part="Y">Illud sis vide</l>
                      <lb ed="actscene" n="5"/>
-                     <l n="771">Exemplum disciplinae. 
-   </l>
+                     <l n="771">Exemplum disciplinae.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Ecce autem hic adest</l>
-                     <l n="772">Senex noster. Quid fit? quid tu es tristis? 
-   </l>
+                     <l part="Y">Ecce autem hic adest</l>
+                     <l n="772">Senex noster. Quid fit? quid tu es tristis?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Oh scelus.</l>
+                     <l part="Y">Oh scelus.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -3187,114 +2861,97 @@
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> dis quidem esses, Demea,</l>
-                     <l n="775">Ac tuam rem constabilisses. 
-   </l>
+                     <l part="Y">dis quidem esses, Demea,</l>
+                     <l n="775">Ac tuam rem constabilisses.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> exemplum omnibus</l>
+                     <l part="Y">exemplum omnibus</l>
                      <lb ed="actscene" n="10"/>
-                     <l n="776">Curarem ut esses. 
-   </l>
+                     <l n="776">Curarem ut esses.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Quamobrem? quid feci? 
-   </l>
+                     <l part="Y">Quamobrem? quid feci?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Rogas?</l>
+                     <l part="Y">Rogas?</l>
                      <l n="777">In ipsa turba, atque in peccato maximo,</l>
                      <l n="778">Quod vix sedatum satis est, potasti scelus,</l>
-                     <l n="779">Quasi re bene gesta. 
-   </l>
+                     <l n="779">Quasi re bene gesta.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Sane nollem huc exitum.
-</l>
+                     <l part="Y">Sane nollem huc exitum.</l>
                   </sp>
                </div>
                <div type="textpart" n="2" subtype="scene">
                   <stage>DROMO. SYRUS. DEMEA.</stage>
                   <sp>
                      <speaker>Dr.</speaker>
-                     <l n="780">Heus, Syre; rogat te Ctesipho ut redeas. 
-   </l>
+                     <l n="780">Heus, Syre; rogat te Ctesipho ut redeas.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Abi.</l>
+                     <l part="Y">Abi.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="781">Quid Ctesiphonem hic narrat? 
-   </l>
+                     <l n="781">Quid Ctesiphonem hic narrat?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Nihil. 
-   </l>
+                     <l part="Y">Nihil.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Eho carnifex,</l>
-                     <l n="782">Est Ctesipho intus? 
-   </l>
+                     <l part="Y">Eho carnifex,</l>
+                     <l n="782">Est Ctesipho intus?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Non est. 
-   </l>
+                     <l part="Y">Non est.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Cur hic nominat?</l>
+                     <l part="Y">Cur hic nominat?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
                      <l n="783">Est alius quidam, parasitaster parvulus:</l>
                      <lb ed="actscene" n="5"/>
-                     <l n="784">Nostin? 
-   </l>
+                     <l n="784">Nostin?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Iam scibo. 
-   </l>
+                     <l part="Y">Iam scibo.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Quid agis? quo abis? 
-   </l>
+                     <l part="Y">Quid agis? quo abis?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Mitte me.</l>
+                     <l part="Y">Mitte me.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="785">Noli inquam. 
-   </l>
+                     <l n="785">Noli inquam.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Non manum abstines, mastigia?</l>
-                     <l n="786">An tibi iam mavis cerebrum dispergi hic? 
-   </l>
+                     <l part="Y">Non manum abstines, mastigia?</l>
+                     <l n="786">An tibi iam mavis cerebrum dispergi hic?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Abit.</l>
+                     <l part="Y">Abit.</l>
                      <l n="787">Edepol comissatorem haud sane commodum,</l>
                      <l n="788">Praesertim Ctesiphoni. Quid ego nunc agam</l>
                      <lb ed="actscene" n="10"/>
                      <l n="789">Nisi, dum hae silescunt turbae, interea in angulum</l>
-                     <l n="790">Aliquo abeam, atque edormiscam hoc villi? Sic agam.
-
-</l>
+                     <l n="790">Aliquo abeam, atque edormiscam hoc villi? Sic agam.</l>
                   </sp>
                </div>
                <div type="textpart" n="3" subtype="scene">
@@ -3307,20 +2964,18 @@
                   <sp>
                      <speaker>De.</speaker>
                      <l n="793">Hei mihi, quid faciam? quid agam? quid clamem aut querar?</l>
-                     <l n="794">O coelum, O terra, O maria Neptuni! 
-   </l>
+                     <l n="794">O coelum, O terra, O maria Neptuni!</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Em tibi:</l>
+                     <l part="Y">Em tibi:</l>
                      <lb ed="actscene" n="5"/>
                      <l n="795">Rescivit omnem rem; id nunc clamat scilicet:</l>
-                     <l n="796">Paratae lites; succurrendum est. 
-   </l>
+                     <l n="796">Paratae lites; succurrendum est.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Eccum adest</l>
+                     <l part="Y">Eccum adest</l>
                      <l n="797">Communis corruptela nostrum liberum.</l>
                   </sp>
                   <sp>
@@ -3333,12 +2988,11 @@
                      <lb ed="actscene" n="10"/>
                      <l n="800">Rem ipsam putemus: dictum hoc inter nos fuit,</l>
                      <l n="801">Ex te adeo est ortum, ne tu curares meum,</l>
-                     <l n="802">Neve ego tuum? responde. 
-   </l>
+                     <l n="802">Neve ego tuum? responde.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Factum est; non nego.</l>
+                     <l part="Y">Factum est; non nego.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
@@ -3379,12 +3033,11 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="824">Mitto rem: consuetudinem ipsorum. 
-   </l>
+                     <l n="824">Mitto rem: consuetudinem ipsorum.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Mane:</l>
+                     <l part="Y">Mane:</l>
                      <lb ed="actscene" n="35"/>
                      <l n="825">Scio: istuc ibam. Multa in homine, Demea,</l>
                      <l n="826">Signa insunt ex quibus coniectura facile fit,</l>
@@ -3402,64 +3055,56 @@
                      <l n="836">Ad omnia alia aetate sapimus rectius:</l>
                      <l n="837">Solum unum hoc vitium senectus affert hominibus;</l>
                      <l n="838">Attentiores sumus ad rem omnes quam sat est:</l>
-                     <l n="839">Quod illos sat aetas acuet. 
-   </l>
+                     <l n="839">Quod illos sat aetas acuet.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Ne nimium modo</l>
+                     <l part="Y">Ne nimium modo</l>
                      <lb ed="actscene" n="50"/>
                      <l n="840">Bonae tuae istae nos rationes, Micio,</l>
-                     <l n="841">Et tuus iste animus aequus, subvertant. 
-   </l>
+                     <l n="841">Et tuus iste animus aequus, subvertant.</l>
                   </sp>
                   <sp>
                      <speaker>Mi</speaker>
-                     <l part="Y"> Tace:</l>
+                     <l part="Y">Tace:</l>
                      <l n="842">Non fiet: mitte iam istaec: da te hodie mihi:</l>
-                     <l n="843">Exporge frontem. 
-   </l>
+                     <l n="843">Exporge frontem.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Scilicet, ita tempus fert;</l>
+                     <l part="Y">Scilicet, ita tempus fert;</l>
                      <l n="844">Faciendum est: caeterum rus eras cum filio</l>
                      <lb ed="actscene" n="55"/>
-                     <l n="845">Cum primo lucu <del>ibo hinc</del>. 
-   </l>
+                     <l n="845">Cum primo lucu <del>ibo hinc</del>.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Immo de note censeo;</l>
-                     <l n="846">Hodie modo hilarum fac te. 
-   </l>
+                     <l part="Y">Immo de note censeo;</l>
+                     <l n="846">Hodie modo hilarum fac te.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Et istam psaltriam</l>
-                     <l n="847">Una illuc mecum hinc abstraham. 
-   </l>
+                     <l part="Y">Et istam psaltriam</l>
+                     <l n="847">Una illuc mecum hinc abstraham.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Pugnaveris.</l>
+                     <l part="Y">Pugnaveris.</l>
                      <l n="848">Eo pacto prorsum illic alligaris filium:</l>
-                     <l n="849">Modo facito ut illam serves. 
-   </l>
+                     <l n="849">Modo facito ut illam serves.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Ego istuc videro:</l>
+                     <l part="Y">Ego istuc videro:</l>
                      <lb ed="actscene" n="60"/>
                      <l n="850">Atque illi favillae plena, funi, ac pollinis,</l>
                      <l n="851">Coquendo sit faxo, et molendo: praeter haec</l>
                      <l n="852">Meridie ipso faciam ut stipulam colligat:</l>
-                     <l n="853">Tam excoctam reddam atque atram quam carbo est. 
-   </l>
+                     <l n="853">Tam excoctam reddam atque atram quam carbo est.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Placet:</l>
+                     <l part="Y">Placet:</l>
                      <l n="854">Nunc mihi videre sapere; atque equidem filium</l>
                      <lb ed="actscene" n="65"/>
                      <l n="855">Tum etiam si nolit cogam ut cum illa una cubet.</l>
@@ -3471,18 +3116,15 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ah, pergisne? 
-   </l>
+                     <l part="Y">Ah, pergisne?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Iam iam desino.</l>
+                     <l part="Y">Iam iam desino.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="858">I ergo intro, et cui rei est ei rei hunc sumamus diem.
-
-</l>
+                     <l n="858">I ergo intro, et cui rei est ei rei hunc sumamus diem.</l>
                   </sp>
                </div>
                <div type="textpart" n="4" subtype="scene">
@@ -3518,8 +3160,7 @@
                   <lb ed="actscene" n="25"/>
                   <l n="883">Ego quoque a meis me amari et magni pendi postulo:</l>
                   <l n="884">Si id fit dando atque obsequendo, non posteriores feram.</l>
-                  <l n="885">Deerit. Id mea minime refert qui sum natu maximus.
-</l>
+                  <l n="885">Deerit. Id mea minime refert qui sum natu maximus.</l>
                </div>
                <div type="textpart" n="5" subtype="scene">
                   <stage>SYRUS. DEMEA.</stage>
@@ -3533,28 +3174,24 @@
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l n="888">Recte. 
-   </l>
+                     <l n="888">Recte.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Optime est. Iam nunc haec tria primum addidi</l>
+                     <l part="Y">Optime est. Iam nunc haec tria primum addidi</l>
                      <l n="889">Praeter naturam: "O noster! quid fit? quid agitur?"</l>
                      <lb ed="actscene" n="5"/>
                      <l n="890">Servum haud illiberalem praebes te; et tibi</l>
-                     <l n="891">Libens bene faxim. 
-   </l>
+                     <l n="891">Libens bene faxim.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Gratiam habeo. 
-   </l>
+                     <l part="Y">Gratiam habeo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Atqui, Syre,</l>
-                     <l n="892">Hoc verum est; et ipsa re experiere propediem.
-</l>
+                     <l part="Y">Atqui, Syre,</l>
+                     <l n="892">Hoc verum est; et ipsa re experiere propediem.</l>
                   </sp>
                </div>
                <div type="textpart" n="6" subtype="scene">
@@ -3566,35 +3203,31 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="895">O, qui vocare? 
-   </l>
+                     <l n="895">O, qui vocare?</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Geta. 
-   </l>
+                     <l part="Y">Geta.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Geta, hominem maximi</l>
+                     <l part="Y">Geta, hominem maximi</l>
                      <l n="896">Preti te esse hodie animo iudicavi meo:</l>
                      <lb ed="actscene" n="5"/>
                      <l n="897">Nam is mihi profecto est servus spectatus satis</l>
                      <l n="898">Cui dominus curae est, ita uti tibi sensi, Geta:</l>
                      <l n="899">Et tibi ob eam rem, si quid usus venerit,</l>
                      <l n="900">Libens bene faxim. Meditor esse affabilis;</l>
-                     <l n="901">Et bene procedit. 
-   </l>
+                     <l n="901">Et bene procedit.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Bonus es quum hace existimas.</l>
+                     <l part="Y">Bonus es quum hace existimas.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="10"/>
-                     <l n="902">Paulatim plebem primulum facio meam.
-</l>
+                     <l n="902">Paulatim plebem primulum facio meam.</l>
                   </sp>
                </div>
                <div type="textpart" n="7" subtype="scene">
@@ -3606,112 +3239,96 @@
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="905">Quid agitur, Aeschine? 
-   </l>
+                     <l n="905">Quid agitur, Aeschine?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Ehem, pater mi, tu hic eras?</l>
+                     <l part="Y">Ehem, pater mi, tu hic eras?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <l n="906">Tuus hercle vero et animo et natura pater,</l>
                      <lb ed="actscene" n="5"/>
                      <l n="907">Qui te amat plus quam hosce oculos: sed cur non domum</l>
-                     <l n="908">Uxorem arcessis? 
-   </l>
+                     <l n="908">Uxorem arcessis?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Cupio: verum hoc mihi morae est;</l>
-                     <l n="909">Tibicina, et Hymenaeum qui cantent. 
-   </l>
+                     <l part="Y">Cupio: verum hoc mihi morae est;</l>
+                     <l n="909">Tibicina, et Hymenaeum qui cantent.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Eho,</l>
-                     <l n="910">Vin tu huic seni auscultare? 
-   </l>
+                     <l part="Y">Eho,</l>
+                     <l n="910">Vin tu huic seni auscultare?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Quid? 
-   </l>
+                     <l part="Y">Quid?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Missa haec face,</l>
+                     <l part="Y">Missa haec face,</l>
                      <l n="911">Hymenaeum, turbas, lampadas, tibicinas;</l>
                      <lb ed="actscene" n="10"/>
                      <l n="912">Atque hanc in horto maceriam iube dirui,</l>
                      <l n="913">Quantum potest; hac transfer; unam fac domum;</l>
-                     <l n="914">Traduce et matrem et familiam omnem ad nos. 
-   </l>
+                     <l n="914">Traduce et matrem et familiam omnem ad nos.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Placet,</l>
-                     <l n="915">Pater lepidissime. 
-   </l>
+                     <l part="Y">Placet,</l>
+                     <l n="915">Pater lepidissime.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Euge! iam lepidus vocor.</l>
+                     <l part="Y">Euge! iam lepidus vocor.</l>
                      <l n="916">Fratri aedes fient perviae: turbam domum</l>
                      <lb ed="actscene" n="15"/>
                      <l n="917">Adducet; sumtum admittet; multa. Quid mea?</l>
                      <l n="918">Ego lepidus ineo gratiam. Iube nunc iam</l>
                      <l n="919">Dinumeret illi Babylo viginti minas.</l>
-                     <l n="920">Syre, cessas ire ac facere? 
-   </l>
+                     <l n="920">Syre, cessas ire ac facere?</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Quid ago? 
-   </l>
+                     <l part="Y">Quid ago?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Dirue.</l>
-                     <l n="921">Tu illas abi et traduce. 
-   </l>
+                     <l part="Y">Dirue.</l>
+                     <l n="921">Tu illas abi et traduce.</l>
                   </sp>
                   <sp>
                      <speaker>Ge.</speaker>
-                     <l part="Y"> Di tibi, Demea,</l>
+                     <l part="Y">Di tibi, Demea,</l>
                      <lb ed="actscene" n="20"/>
                      <l n="922">Bene faciant quum te video nostrae familiae</l>
-                     <l n="923">Tam ex animo factum velle. 
-   </l>
+                     <l n="923">Tam ex animo factum velle.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Dignos arbitror.</l>
-                     <l n="924">Quid ais tu? 
-   </l>
+                     <l part="Y">Dignos arbitror.</l>
+                     <l n="924">Quid ais tu?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Sic opinor. 
-   </l>
+                     <l part="Y">Sic opinor.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Multo rectius est</l>
+                     <l part="Y">Multo rectius est</l>
                      <l n="925">Quam illam puerperam nunc duci huc per viam</l>
-                     <l n="926">Aegrotam. 
-   </l>
+                     <l n="926">Aegrotam.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Nihil enim vidi melius, mi pater.</l>
+                     <l part="Y">Nihil enim vidi melius, mi pater.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="25"/>
-                     <l n="927">Sic soleo: sed eccum Micio egreditur foras.
-
-</l>
+                     <l n="927">Sic soleo: sed eccum Micio egreditur foras.</l>
                   </sp>
                </div>
                <div type="textpart" n="8" subtype="scene">
@@ -3724,57 +3341,50 @@
                      <speaker>De.</speaker>
                      <l n="929">Ego vero iubeo et in hac re et aliis omnibus</l>
                      <l n="930">Quam maxime unam facere nos hanc familiam,</l>
-                     <l n="931">Colere, adiuvare, adiungere. 
-   </l>
+                     <l n="931">Colere, adiuvare, adiungere.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Ita quaeso, pater.</l>
+                     <l part="Y">Ita quaeso, pater.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <lb ed="actscene" n="5"/>
-                     <l n="932">Haud aliter censeo. 
-   </l>
+                     <l n="932">Haud aliter censeo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Immo hercle ita nobis decet.</l>
-                     <l n="933">Primum huius uxoris est mater. 
-   </l>
+                     <l part="Y">Immo hercle ita nobis decet.</l>
+                     <l n="933">Primum huius uxoris est mater.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quid postea?</l>
+                     <l part="Y">Quid postea?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="934">Proba et modesta. 
-   </l>
+                     <l n="934">Proba et modesta.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ita aiunt. 
-   </l>
+                     <l part="Y">Ita aiunt.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Natu grandior.</l>
+                     <l part="Y">Natu grandior.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="935">Scio. 
-   </l>
+                     <l n="935">Scio.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Parere iam diu haec per annos non potest;</l>
-                     <l n="936">Nec qui eam respiciat quisquam est: sola est. 
-   </l>
+                     <l part="Y">Parere iam diu haec per annos non potest;</l>
+                     <l n="936">Nec qui eam respiciat quisquam est: sola est.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quam hic rem agit?</l>
+                     <l part="Y">Quam hic rem agit?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
@@ -3783,138 +3393,118 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="938">Me ducere autem? 
-   </l>
+                     <l n="938">Me ducere autem?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Te. 
-   </l>
+                     <l part="Y">Te.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Me? 
-   </l>
+                     <l part="Y">Me?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Te inquam. 
-   </l>
+                     <l part="Y">Te inquam.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Ineptis. 
-   </l>
+                     <l part="Y">Ineptis.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Si tu sis homo,</l>
-                     <l n="939">Hic faciat. 
-   </l>
+                     <l part="Y">Si tu sis homo,</l>
+                     <l n="939">Hic faciat.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Mi pater. 
-   </l>
+                     <l part="Y">Mi pater.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quid? tu autem huic, asine, auscultas? 
-   </l>
+                     <l part="Y">Quid? tu autem huic, asine, auscultas?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Nihil agis:</l>
-                     <l n="940">Fieri aliter non potest. 
-   </l>
+                     <l part="Y">Nihil agis:</l>
+                     <l n="940">Fieri aliter non potest.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Deliras. 
-   </l>
+                     <l part="Y">Deliras.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Sine te exorem, mi pater.</l>
+                     <l part="Y">Sine te exorem, mi pater.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="941">Insanis: aufer. 
-   </l>
+                     <l n="941">Insanis: aufer.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Age da veniam filio. 
-   </l>
+                     <l part="Y">Age da veniam filio.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Satin sanus es? ego</l>
+                     <l part="Y">Satin sanus es? ego</l>
                      <lb ed="actscene" n="15"/>
                      <l n="942">Novus maritus anno demum quinto et sexagesimo</l>
                      <l n="943">Fiam, atque anum decrepitam ducam? Idne estis auctores mihi?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l n="944">Fac: promisi ego illis. 
-   </l>
+                     <l n="944">Fac: promisi ego illis.</l>
                   </sp>
                   <sp>
                      <speaker>Mi</speaker>
-                     <l part="Y"> Promisti autem? de te largitor, puer.</l>
+                     <l part="Y">Promisti autem? de te largitor, puer.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="945">Age; quid si quid te maius oret? 
-   </l>
+                     <l n="945">Age; quid si quid te maius oret?</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quasi non hoc sit maximum.</l>
+                     <l part="Y">Quasi non hoc sit maximum.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="946">Da veniam. 
-   </l>
+                     <l n="946">Da veniam.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Ne gravere. 
-   </l>
+                     <l part="Y">Ne gravere.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Fac promitte. 
-   </l>
+                     <l part="Y">Fac promitte.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Non omittis?</l>
+                     <l part="Y">Non omittis?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
                      <lb ed="actscene" n="20"/>
-                     <l n="947">Non, nisi te exorem. 
-   </l>
+                     <l n="947">Non, nisi te exorem.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Vis est haec quidem. 
-   </l>
+                     <l part="Y">Vis est haec quidem.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Age prolixe, Micio.</l>
+                     <l part="Y">Age prolixe, Micio.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <l n="948">Etsi hoc mihi pravum, ineptum, absurdum, atque alienum a vita mea</l>
-                     <l n="949">Videtur, si vos tantopere istuc vultis, fiat. 
-   </l>
+                     <l n="949">Videtur, si vos tantopere istuc vultis, fiat.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Bene facis:</l>
+                     <l part="Y">Bene facis:</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
@@ -3922,12 +3512,11 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Quid? 
-   </l>
+                     <l part="Y">Quid?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Ego dicam, hoc quum fit quod volo.</l>
+                     <l part="Y">Ego dicam, hoc quum fit quod volo.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
@@ -3937,23 +3526,20 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="953">Quid facere? 
-   </l>
+                     <l n="953">Quid facere?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Agelli est hic sub urbe paulum, quod locitas foras:</l>
-                     <l n="954">Huic demus qui fruatur. 
-   </l>
+                     <l part="Y">Agelli est hic sub urbe paulum, quod locitas foras:</l>
+                     <l n="954">Huic demus qui fruatur.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Paulum id autem? 
-   </l>
+                     <l part="Y">Paulum id autem?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Si multum est, tamen</l>
+                     <l part="Y">Si multum est, tamen</l>
                      <l n="955">Faciendum est: pro patre huic est; bonus est; noster est; recte datur.</l>
                      <l n="956">Postremo nunc meum illud verbum facio quod tu, Micio,</l>
                      <lb ed="actscene" n="30"/>
@@ -3963,27 +3549,24 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="960">Quid istic? dabitur quandoquidem hic vult. 
-   </l>
+                     <l n="960">Quid istic? dabitur quandoquidem hic vult.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Mi pater.</l>
+                     <l part="Y">Mi pater.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="961">Nunc tu mihi es germanus pariter corpore et animo. 
-   </l>
+                     <l n="961">Nunc tu mihi es germanus pariter corpore et animo.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Gaudeo.</l>
+                     <l part="Y">Gaudeo.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="35"/>
-                     <l n="962">Suo sibi gladio hunc iugulo.
-</l>
+                     <l n="962">Suo sibi gladio hunc iugulo.</l>
                   </sp>
                </div>
                <div type="textpart" n="9" subtype="scene">
@@ -3995,23 +3578,20 @@
                   <sp>
                      <speaker>De.</speaker>
                      <l n="964">Frugi homo es. Ego edepol hodie mea quidem sententia</l>
-                     <l n="965">Iudico Syrum fieri esse aequum liberum. 
-   </l>
+                     <l n="965">Iudico Syrum fieri esse aequum liberum.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Istunc liberum?</l>
-                     <l n="966">Quodnam ob factum? 
-   </l>
+                     <l part="Y">Istunc liberum?</l>
+                     <l n="966">Quodnam ob factum?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Multa. 
-   </l>
+                     <l part="Y">Multa.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> O noster Demea, edepol vir bonus es.</l>
+                     <l part="Y">O noster Demea, edepol vir bonus es.</l>
                      <lb ed="actscene" n="5"/>
                      <l n="967">Ego istos vobis usque a pueris curavi ambos sedulo;</l>
                      <l n="968">Docui, monui, bene praecepi semper quae potui omnia.</l>
@@ -4020,83 +3600,73 @@
                      <speaker>De.</speaker>
                      <l n="969">Res apparet. Et quidem porro haec; obsonare cuni fide,</l>
                      <l n="970">Scortum adducere, apparare de die convivium;</l>
-                     <l n="971">Non mediocris hominis haec sunt officia. 
-   </l>
+                     <l n="971">Non mediocris hominis haec sunt officia.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> O lepidum caput!</l>
+                     <l part="Y">O lepidum caput!</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="10"/>
                      <l n="972">Postremo, hodie in psaltria hac emenda hic adiutor fuit,</l>
                      <l n="973">Hic curavit: prodesse aequum est: alii meliores erunt:</l>
-                     <l n="974">Denique hic vult fieri. 
-   </l>
+                     <l n="974">Denique hic vult fieri.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Vin tu hoc fieri? 
-   </l>
+                     <l part="Y">Vin tu hoc fieri?</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Cupio. 
-   </l>
+                     <l part="Y">Cupio.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Si quidem</l>
-                     <l n="975">Tu vis, Syre, eho accede huc ad me: liber esto. 
-   </l>
+                     <l part="Y">Si quidem</l>
+                     <l n="975">Tu vis, Syre, eho accede huc ad me: liber esto.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Bene facis.</l>
+                     <l part="Y">Bene facis.</l>
                      <l n="976">Omnibus gratiam habeo, et seorsum tibi praeterea, Demea.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
                      <lb ed="actscene" n="15"/>
-                     <l n="977">Gaudeo. 
-   </l>
+                     <l n="977">Gaudeo.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Et ego. 
-   </l>
+                     <l part="Y">Et ego.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Credo: utinam hoc perpetuum fiat gaudium,</l>
+                     <l part="Y">Credo: utinam hoc perpetuum fiat gaudium,</l>
                      <l n="978">Phrygiam ut uxorem meam una mecum videam liberam.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="979">Optimam quidem mulierem. 
-   </l>
+                     <l n="979">Optimam quidem mulierem.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Et quidem tuo nepoti, huius filio,</l>
-                     <l n="980">Hodie primam mammam dedit haec. 
-   </l>
+                     <l part="Y">Et quidem tuo nepoti, huius filio,</l>
+                     <l n="980">Hodie primam mammam dedit haec.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Hercle vero serio,</l>
+                     <l part="Y">Hercle vero serio,</l>
                      <l n="981">Si quidem primam dedit, haud dubium quin emitti aequum siet.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <lb ed="actscene" n="20"/>
-                     <l n="982">Ob eam rem? 
-   </l>
+                     <l n="982">Ob eam rem?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Ob eam. Postremo a me argentum quanti est sumito.</l>
+                     <l part="Y">Ob eam. Postremo a me argentum quanti est sumito.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
@@ -4104,63 +3674,55 @@
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l n="984">Syre, processisti hodie pulchre. 
-   </l>
+                     <l n="984">Syre, processisti hodie pulchre.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Si quidem porro, Micio,</l>
+                     <l part="Y">Si quidem porro, Micio,</l>
                      <l n="985">Tu tuum officium facies, atque huic aliquid paulum prae manu</l>
-                     <l n="986">Dederis unde utatur; reddet tibi cito. 
-   </l>
+                     <l n="986">Dederis unde utatur; reddet tibi cito.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Istoc vilius.</l>
+                     <l part="Y">Istoc vilius.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
                      <lb ed="actscene" n="25"/>
-                     <l n="987">Frugi homo est. 
-   </l>
+                     <l n="987">Frugi homo est.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> Reddam hercle; da modo. 
-   </l>
+                     <l part="Y">Reddam hercle; da modo.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Age pater. 
-   </l>
+                     <l part="Y">Age pater.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Post consulam.</l>
+                     <l part="Y">Post consulam.</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l n="988">Faciet. 
-   </l>
+                     <l n="988">Faciet.</l>
                   </sp>
                   <sp>
                      <speaker>Sy.</speaker>
-                     <l part="Y"> O vir optime. 
-   </l>
+                     <l part="Y">O vir optime.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> O mi pater festivissime.</l>
+                     <l part="Y">O mi pater festivissime.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
                      <l n="989">Quid istuc? quae res tam repente mores mutavit tuos?</l>
-                     <l n="990">Quod prolubium? quae istaec subita est largitas? 
-   </l>
+                     <l n="990">Quod prolubium? quae istaec subita est largitas?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Dicam tibi;</l>
+                     <l part="Y">Dicam tibi;</l>
                      <l n="991">Ut id ostenderem quod te isti facilem et festivum putant,</l>
                      <lb ed="actscene" n="30"/>
                      <l n="992">Id non fieri ex vera vita, neque adeo ex aequo et bono:</l>
@@ -4172,26 +3734,22 @@
                      <l n="997">Sed si id vultis potius, quae vos propter adolescentiam</l>
                      <l n="998">Minus videtis, magis impense cupitis, consulitis parum,</l>
                      <l n="999">Haec reprehendere et corrigere me, et obsecundare in loco;</l>
-                     <l n="1000">Ecce me qui id faciam vobis. 
-   </l>
+                     <l n="1000">Ecce me qui id faciam vobis.</l>
                   </sp>
                   <sp>
                      <speaker>Aes.</speaker>
-                     <l part="Y"> Tibi, pater, permittimus:</l>
-                     <l n="1001">Plus scis quid facto opus est. Sed de fratre quid fiet? 
-   </l>
+                     <l part="Y">Tibi, pater, permittimus:</l>
+                     <l n="1001">Plus scis quid facto opus est. Sed de fratre quid fiet?</l>
                   </sp>
                   <sp>
                      <speaker>De.</speaker>
-                     <l part="Y"> Sino;</l>
+                     <l part="Y">Sino;</l>
                      <lb ed="actscene" n="40"/>
-                     <l n="1002">Habeat; in istac finem faciat. 
-   </l>
+                     <l n="1002">Habeat; in istac finem faciat.</l>
                   </sp>
                   <sp>
                      <speaker>Mi.</speaker>
-                     <l part="Y"> Istuc recte. 
-   </l>
+                     <l part="Y">Istuc recte.</l>
                   </sp>
                   <sp>
                      <speaker>Om.</speaker>
