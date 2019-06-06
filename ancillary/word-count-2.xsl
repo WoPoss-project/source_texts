@@ -7,13 +7,14 @@
         <xsl:variable name="centuries" select="distinct-values(//date/@n)"/>
         <xsl:variable name="bibl" select="//bibl"/>
         <xsl:result-document href="century-genres_sans-pliny-livy.csv">
+            <xsl:variable name="genres" select="distinct-values($bibl//term)"/>
+            <xsl:value-of select="concat(';;', string-join($genres, ';'), '&#xA;')"/>
             <xsl:for-each select="1 to count($centuries)">
                 <xsl:variable name="c" select="$centuries[current()]"/>
-                <xsl:variable name="genres" select="distinct-values($bibl[descendant::date/@n = $centuries[current()]]//term)"/>
                 <xsl:for-each select="1 to count($genres)">
                     <xsl:variable name="count"
                         select="sum($bibl[descendant::date/@n = $c][descendant::term = $genres[current()]]/descendant::measure/@quantity)"/>
-                    <xsl:value-of select="concat($c,';',$genres[current()], ';', $count, '&#xA;')"/>
+                    <xsl:value-of select="concat($c,';', $genres[current()], ';', $count, '&#xA;')"/>
                 </xsl:for-each>
             </xsl:for-each>
         </xsl:result-document>

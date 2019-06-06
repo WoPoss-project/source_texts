@@ -1,38 +1,161 @@
+;;Historical writing;Oratory;Novel;Erudit compilitation;Letter writing;Poetry;Philosophy;Technical writing;Medicine;Rhetorical writing;Translation;Panegyric;Dialogue;Comedy;Christian;Tragedy
 4;Historical writing;148861
 4;Oratory;5530
+4;Novel;0
+4;Erudit compilitation;0
 4;Letter writing;54237
 4;Poetry;28930
+4;Philosophy;0
+4;Technical writing;0
+4;Medicine;0
+4;Rhetorical writing;0
+4;Translation;0
 4;Panegyric;1382
+4;Dialogue;0
+4;Comedy;0
 4;Christian;18355
+4;Tragedy;0
+2;Historical writing;0
 2;Oratory;21863
 2;Novel;54983
 2;Erudit compilitation;128395
+2;Letter writing;0
 2;Poetry;26875
 2;Philosophy;6383
+2;Technical writing;0
+2;Medicine;0
+2;Rhetorical writing;0
+2;Translation;0
+2;Panegyric;0
+2;Dialogue;0
+2;Comedy;0
+2;Christian;0
+2;Tragedy;0
 7;Historical writing;85956
+7;Oratory;0
+7;Novel;0
+7;Erudit compilitation;0
+7;Letter writing;0
+7;Poetry;0
+7;Philosophy;0
+7;Technical writing;0
+7;Medicine;0
+7;Rhetorical writing;0
+7;Translation;0
+7;Panegyric;0
+7;Dialogue;0
+7;Comedy;0
+7;Christian;0
+7;Tragedy;0
+6;Historical writing;0
+6;Oratory;0
+6;Novel;0
+6;Erudit compilitation;0
+6;Letter writing;0
+6;Poetry;0
 6;Philosophy;74178
+6;Technical writing;0
+6;Medicine;0
+6;Rhetorical writing;0
+6;Translation;0
+6;Panegyric;0
+6;Dialogue;0
+6;Comedy;0
+6;Christian;0
+6;Tragedy;0
 -1;Historical writing;72681
--1;Philosophy;81360
--1;Rhetorical writing;32878
--1;Letter writing;164139
--1;Translation;4321
--1;Technical writing;9481
--1;Poetry;218035
 -1;Oratory;10257
+-1;Novel;0
+-1;Erudit compilitation;0
+-1;Letter writing;164139
+-1;Poetry;218035
+-1;Philosophy;81360
+-1;Technical writing;9481
+-1;Medicine;0
+-1;Rhetorical writing;32878
+-1;Translation;4321
+-1;Panegyric;0
+-1;Dialogue;0
+-1;Comedy;0
+-1;Christian;0
+-1;Tragedy;0
+1;Historical writing;98258
+1;Oratory;0
+1;Novel;31951
+1;Erudit compilitation;0
+1;Letter writing;196711
+1;Poetry;36896
+1;Philosophy;4345
 1;Technical writing;206695
 1;Medicine;106135
-1;Historical writing;98258
-1;Novel;31951
-1;Letter writing;196711
 1;Rhetorical writing;178715
-1;Philosophy;4345
-1;Poetry;36896
+1;Translation;0
+1;Panegyric;0
+1;Dialogue;0
+1;Comedy;0
+1;Christian;0
 1;Tragedy;12878
-3;Dialogue;11672
+3;Historical writing;0
+3;Oratory;0
+3;Novel;0
+3;Erudit compilitation;0
+3;Letter writing;0
+3;Poetry;0
 3;Philosophy;11672
+3;Technical writing;0
+3;Medicine;0
+3;Rhetorical writing;0
+3;Translation;0
+3;Panegyric;0
+3;Dialogue;11672
+3;Comedy;0
+3;Christian;0
+3;Tragedy;0
+-2;Historical writing;0
+-2;Oratory;0
+-2;Novel;0
+-2;Erudit compilitation;0
+-2;Letter writing;0
 -2;Poetry;44095
+-2;Philosophy;0
+-2;Technical writing;0
+-2;Medicine;0
+-2;Rhetorical writing;0
+-2;Translation;0
+-2;Panegyric;0
+-2;Dialogue;0
 -2;Comedy;44095
+-2;Christian;0
+-2;Tragedy;0
+-3;Historical writing;0
+-3;Oratory;0
+-3;Novel;0
+-3;Erudit compilitation;0
+-3;Letter writing;0
 -3;Poetry;10950
+-3;Philosophy;0
+-3;Technical writing;0
+-3;Medicine;0
+-3;Rhetorical writing;0
+-3;Translation;0
+-3;Panegyric;0
+-3;Dialogue;0
 -3;Comedy;10950
-5;Poetry;22218
+-3;Christian;0
+-3;Tragedy;0
+5;Historical writing;0
+5;Oratory;0
+5;Novel;0
+5;Erudit compilitation;0
 5;Letter writing;14418
+5;Poetry;22218
+5;Philosophy;0
+5;Technical writing;0
+5;Medicine;0
+5;Rhetorical writing;0
+5;Translation;0
+5;Panegyric;0
+5;Dialogue;0
+5;Comedy;0
+5;Christian;0
+5;Tragedy;0
