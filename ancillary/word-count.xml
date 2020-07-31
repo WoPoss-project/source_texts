@@ -70,6 +70,8 @@
                </bibl>
             </person>
             <person>
+               
+<!--               Something wrong here !!!! -->
                <persName>Ausonius</persName>
                <bibl>
                   <title>Ausonii Burdigalensis Vasatis Gratiarum Actio Ad Grati Angratianum Imperatorem Pro Consulatu</title>
@@ -80,7 +82,7 @@
                   <extent><measure unit="words" quantity="4148"/></extent>
                </bibl>
                <bibl>
-                  <title>Ausonii Burdigalensis Vasatis Gratiarum Actio Ad Grati Angratianum Imperatorem Pro Consulatu</title>
+                  <title>Epistularum</title>
                   <date type="century" n="4">IV</date>                  
                   <index indexName="genre">
                      <term>Letter writing</term>
