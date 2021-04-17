@@ -87,7 +87,7 @@
                <listBibl>
                   <bibl status="annotated">
                      <title>Historia Apolonii Regis Tyrii</title>
-                     <date type="century" n="5.5" cert="low">V-VI</date>
+                     <date type="century" n="5" cert="low">V</date>
                      <extent>
                         <measure unit="words" quantity="11794"></measure>
                      </extent>
@@ -350,7 +350,7 @@
                   Jonah_la 972
                   -->
                   
-                  <extent><measure unit="words" quantity="60235"></measure></extent>
+                  <extent><measure unit="words" quantity="59263"></measure></extent>
                </bibl>
             </person>
             <person>
@@ -459,7 +459,7 @@
                </bibl>
                <bibl status="annotated">
                   <title>Poenelus</title>
-                  <date type="century" n="-2.5">III/II BCE</date>
+                  <date type="century" n="-2">II BCE</date>
                   <index indexName="genre">
                      <term>Poetry</term>
                      <term>Comedy</term>
@@ -489,13 +489,13 @@
             </person>-->
             <person>
                <persName>Pliny the Younger</persName>
-               <bibl>
+               <bibl status="annotated">
                   <title>Letters</title>
                   <date type="century" n="1">I</date>
                   <index indexName="genre">
                      <term>Letter writing</term>
                   </index>
-                  <extent><measure unit="words" quantity="67076"/></extent>
+                  <extent><measure unit="words" quantity="6959"/></extent>
                </bibl>
             </person>
             <person>
